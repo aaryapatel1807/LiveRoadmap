@@ -1,0 +1,558 @@
+{
+  "search_metadata": {
+    "id": "6ac43f7760cbef972051ae3c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/RMOddJ4doSToBhCXOd53qDfuOO41lTkjB1yHevzBdkc/6ac43f7760cbef972051ae3c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/RMOddJ4doSToBhCXOd53qDfuOO41lTkjB1yHevzBdkc/6ac43f7760cbef972051ae3c.md",
+    "created_at": "2026-10-06 00:23:19 UTC",
+    "processed_at": "2026-10-06 00:23:19 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=backend+developer+jobs+India&uule=w+CAIQICIFSW5kaWE&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/RMOddJ4doSToBhCXOd53qDfuOO41lTkjB1yHevzBdkc/6ac43f7760cbef972051ae3c.html",
+    "total_time_taken": 0.56
+  },
+  "search_parameters": {
+    "q": "backend developer jobs India",
+    "engine": "google_jobs",
+    "location_requested": "India",
+    "location_used": "India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rH-nEfqucMsHGD4YSv-NbV4TEgsNBXW7onfnnY6xseDNtuBFAFzn8PDQ11jY1dBvbm3-6xCqjJt7cbMdtxbTcFMNt7avuTHwGLgyjB-sy5Kkb5GFftoAuUgMIgpOFSoEN9dYNnp7wvEPzLzqwtghJ5eN6SSteoJQWyuLNODtvp5GgEzsk",
+        "q": "backend developer jobs India remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=07a39dbf5b4124c0&gl=in&hl=en&sxsrf=APpeQntY8zuHwwjGrGqgsf1y16L0xuKcjQ:1791246199299&q=backend+developer+jobs+India+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rH-nEfqucMsHGD4YSv-NbV4TEgsNBXW7onfnnY6xseDNtuBFAFzn8PDQ11jY1dBvbm3-6xCqjJt7cbMdtxbTcFMNt7avuTHwGLgyjB-sy5Kkb5GFftoAuUgMIgpOFSoEN9dYNnp7wvEPzLzqwtghJ5eN6SSteoJQWyuLNODtvp5GgEzsk&udm=8&sa=X&ved=2ahUKEwiw8aeLkKSXAxWmkWoFHWirFyMQxKsJKAB6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=India&q=backend+developer+jobs+India+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rH-nEfqucMsHGD4YSv-NbV4TEgsNBXW7onfnnY6xseDNtuBFAFzn8PDQ11jY1dBvbm3-6xCqjJt7cbMdtxbTcFMNt7avuTHwGLgyjB-sy5Kkb5GFftoAuUgMIgpOFSoEN9dYNnp7wvEPzLzqwtghJ5eN6SSteoJQWyuLNODtvp5GgEzsk"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r1VLTtVT8hdzdcbWyNQNsekmQARKiaJpd09edFc_AxgnANeJM8j1ykuSWTPURqg5sw3PtLqVysOJAoX28DRPX-LkQY7XEQWIGIAzH2YklupsfRAz6U21p-l-fpI0U-yYdLsyVIIZXeXI3_ShMuP4PvpJGYHG5Qyz81dZxmVvfei6-2lV17U7dnwEinHGPTfKbswSNJ9GXeEjbxpCE_Ps87gy-WH-BolDkuKSaP6jCkjv3T1PVp0uaMU0t1tpIXQxjVMa-JS_pKfA17dAD6-iSzmrrumINT93akz5pnbPPhW2QgkjGqOPjZxEdaj74agK6R0Tuk71k0zPbyHCwvi2MFgEmODVidcykpY_I09NANFSlN6Nk",
+            "q": "backend developer jobs India since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=07a39dbf5b4124c0&gl=in&hl=en&sxsrf=APpeQntY8zuHwwjGrGqgsf1y16L0xuKcjQ:1791246199299&q=backend+developer+jobs+India+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1VLTtVT8hdzdcbWyNQNsekmQARKiaJpd09edFc_AxgnANeJM8j1ykuSWTPURqg5sw3PtLqVysOJAoX28DRPX-LkQY7XEQWIGIAzH2YklupsfRAz6U21p-l-fpI0U-yYdLsyVIIZXeXI3_ShMuP4PvpJGYHG5Qyz81dZxmVvfei6-2lV17U7dnwEinHGPTfKbswSNJ9GXeEjbxpCE_Ps87gy-WH-BolDkuKSaP6jCkjv3T1PVp0uaMU0t1tpIXQxjVMa-JS_pKfA17dAD6-iSzmrrumINT93akz5pnbPPhW2QgkjGqOPjZxEdaj74agK6R0Tuk71k0zPbyHCwvi2MFgEmODVidcykpY_I09NANFSlN6Nk&udm=8&sa=X&ved=2ahUKEwiw8aeLkKSXAxWmkWoFHWirFyMQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=India&q=backend+developer+jobs+India+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1VLTtVT8hdzdcbWyNQNsekmQARKiaJpd09edFc_AxgnANeJM8j1ykuSWTPURqg5sw3PtLqVysOJAoX28DRPX-LkQY7XEQWIGIAzH2YklupsfRAz6U21p-l-fpI0U-yYdLsyVIIZXeXI3_ShMuP4PvpJGYHG5Qyz81dZxmVvfei6-2lV17U7dnwEinHGPTfKbswSNJ9GXeEjbxpCE_Ps87gy-WH-BolDkuKSaP6jCkjv3T1PVp0uaMU0t1tpIXQxjVMa-JS_pKfA17dAD6-iSzmrrumINT93akz5pnbPPhW2QgkjGqOPjZxEdaj74agK6R0Tuk71k0zPbyHCwvi2MFgEmODVidcykpY_I09NANFSlN6Nk"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsm4uI7WjYVAd5vDMHerTjvyizVIPAJt1fWUQByUjyD2v2hhbABTvxoIPpnFLI6sMcgPROX86HvWns8idXNj2qn_saX8Z6KEXWCX7TngV0rPONOPEuo4wweUtPfOfkq0F26Z-G06jitc_mxF_RV8UseWhdQhToSEzSQXAqlRlwSbibt9tfPk2a29rUCBjyUIxczS5KbbLXGq8GfXK9kdQQBDd1IfNumS-rTC4VKLPCwqn8YrJNF27T5YKciYb-yzH5Xsoiw8MFYIZq4KcnJeiNcLwwMPSm6W-kQihjBSWji8eaVH3pfhfpGB8GM2OENxK7ixNI4NskJNOR3lNE_4Y8lvFqG5lWtwtkgLNWAvRbgAS3u32",
+            "q": "backend developer jobs India in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=07a39dbf5b4124c0&gl=in&hl=en&sxsrf=APpeQntY8zuHwwjGrGqgsf1y16L0xuKcjQ:1791246199299&q=backend+developer+jobs+India+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsm4uI7WjYVAd5vDMHerTjvyizVIPAJt1fWUQByUjyD2v2hhbABTvxoIPpnFLI6sMcgPROX86HvWns8idXNj2qn_saX8Z6KEXWCX7TngV0rPONOPEuo4wweUtPfOfkq0F26Z-G06jitc_mxF_RV8UseWhdQhToSEzSQXAqlRlwSbibt9tfPk2a29rUCBjyUIxczS5KbbLXGq8GfXK9kdQQBDd1IfNumS-rTC4VKLPCwqn8YrJNF27T5YKciYb-yzH5Xsoiw8MFYIZq4KcnJeiNcLwwMPSm6W-kQihjBSWji8eaVH3pfhfpGB8GM2OENxK7ixNI4NskJNOR3lNE_4Y8lvFqG5lWtwtkgLNWAvRbgAS3u32&udm=8&sa=X&ved=2ahUKEwiw8aeLkKSXAxWmkWoFHWirFyMQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=India&q=backend+developer+jobs+India+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsm4uI7WjYVAd5vDMHerTjvyizVIPAJt1fWUQByUjyD2v2hhbABTvxoIPpnFLI6sMcgPROX86HvWns8idXNj2qn_saX8Z6KEXWCX7TngV0rPONOPEuo4wweUtPfOfkq0F26Z-G06jitc_mxF_RV8UseWhdQhToSEzSQXAqlRlwSbibt9tfPk2a29rUCBjyUIxczS5KbbLXGq8GfXK9kdQQBDd1IfNumS-rTC4VKLPCwqn8YrJNF27T5YKciYb-yzH5Xsoiw8MFYIZq4KcnJeiNcLwwMPSm6W-kQihjBSWji8eaVH3pfhfpGB8GM2OENxK7ixNI4NskJNOR3lNE_4Y8lvFqG5lWtwtkgLNWAvRbgAS3u32"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rm96lwH7_D8FvvwTy0WTXu2PUQv0YqNMm44-qHtZ-4XkM5MXMEYdfIwjyKPeVyV09EzYmGHH5U8OHQzSIHErXBCgkEyfwtMfpf879BSEEddCDrRrUWuOGcGdqEDAfimUHzlTI5icYI6huYIHFQDXvST7oakHOmM7Ks184kchenndFipfJgHvjHbJBqbRNo7br5twewlmaV-GYsjZYTukxLnQaRTbddqG0en1VftKjVbbLPkNI1mKv5ebs-XAO5BgNDOrip20eFTpCovpaxn5aWKWsHjkpLIXvm4Nloj9059GJW1PzHKin9cTgOcdZLq1F8Bt3egoiEzCVpIbjv5-jjjrgJvP0PcoQ9VywVF2xBPP_4-MK",
+            "q": "backend developer jobs India in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=07a39dbf5b4124c0&gl=in&hl=en&sxsrf=APpeQntY8zuHwwjGrGqgsf1y16L0xuKcjQ:1791246199299&q=backend+developer+jobs+India+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rm96lwH7_D8FvvwTy0WTXu2PUQv0YqNMm44-qHtZ-4XkM5MXMEYdfIwjyKPeVyV09EzYmGHH5U8OHQzSIHErXBCgkEyfwtMfpf879BSEEddCDrRrUWuOGcGdqEDAfimUHzlTI5icYI6huYIHFQDXvST7oakHOmM7Ks184kchenndFipfJgHvjHbJBqbRNo7br5twewlmaV-GYsjZYTukxLnQaRTbddqG0en1VftKjVbbLPkNI1mKv5ebs-XAO5BgNDOrip20eFTpCovpaxn5aWKWsHjkpLIXvm4Nloj9059GJW1PzHKin9cTgOcdZLq1F8Bt3egoiEzCVpIbjv5-jjjrgJvP0PcoQ9VywVF2xBPP_4-MK&udm=8&sa=X&ved=2ahUKEwiw8aeLkKSXAxWmkWoFHWirFyMQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=India&q=backend+developer+jobs+India+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rm96lwH7_D8FvvwTy0WTXu2PUQv0YqNMm44-qHtZ-4XkM5MXMEYdfIwjyKPeVyV09EzYmGHH5U8OHQzSIHErXBCgkEyfwtMfpf879BSEEddCDrRrUWuOGcGdqEDAfimUHzlTI5icYI6huYIHFQDXvST7oakHOmM7Ks184kchenndFipfJgHvjHbJBqbRNo7br5twewlmaV-GYsjZYTukxLnQaRTbddqG0en1VftKjVbbLPkNI1mKv5ebs-XAO5BgNDOrip20eFTpCovpaxn5aWKWsHjkpLIXvm4Nloj9059GJW1PzHKin9cTgOcdZLq1F8Bt3egoiEzCVpIbjv5-jjjrgJvP0PcoQ9VywVF2xBPP_4-MK"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rTGFjtmTP_iRVRK1BxM_muQ-3S1_Zj8FEzFEL3oUh-xT-zus44gfbcWemJOA4-udzQyxRmsSA0Hdif2K6MjIANNJYr0TM1uaKnMZ55aNqFcZB6moDF_xyrjeWhApeV9mPz3lMXGGGzReqdooOLS1oFGoaf9zLXOmcDovdOpVM6rXSAQlqMiW379eNd9_mdW2Ob7ApKv2JvVkwSy_IdL8CofWF_l0LkYDScKNTHTC1POWe4C1aef7GkStLoq3XL6iR-5LviNuiEBB_dbhFO3okb4NE0DEBvsiY7DB3HOibxxYAjtuex6_4rMT5_YgW0dJvI0SbsTZCe-i6m8FfvAoi4zNmNkAzl4HNijJTbTpbVeakLr4y",
+            "q": "backend developer jobs India in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=07a39dbf5b4124c0&gl=in&hl=en&sxsrf=APpeQntY8zuHwwjGrGqgsf1y16L0xuKcjQ:1791246199299&q=backend+developer+jobs+India+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rTGFjtmTP_iRVRK1BxM_muQ-3S1_Zj8FEzFEL3oUh-xT-zus44gfbcWemJOA4-udzQyxRmsSA0Hdif2K6MjIANNJYr0TM1uaKnMZ55aNqFcZB6moDF_xyrjeWhApeV9mPz3lMXGGGzReqdooOLS1oFGoaf9zLXOmcDovdOpVM6rXSAQlqMiW379eNd9_mdW2Ob7ApKv2JvVkwSy_IdL8CofWF_l0LkYDScKNTHTC1POWe4C1aef7GkStLoq3XL6iR-5LviNuiEBB_dbhFO3okb4NE0DEBvsiY7DB3HOibxxYAjtuex6_4rMT5_YgW0dJvI0SbsTZCe-i6m8FfvAoi4zNmNkAzl4HNijJTbTpbVeakLr4y&udm=8&sa=X&ved=2ahUKEwiw8aeLkKSXAxWmkWoFHWirFyMQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=India&q=backend+developer+jobs+India+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rTGFjtmTP_iRVRK1BxM_muQ-3S1_Zj8FEzFEL3oUh-xT-zus44gfbcWemJOA4-udzQyxRmsSA0Hdif2K6MjIANNJYr0TM1uaKnMZ55aNqFcZB6moDF_xyrjeWhApeV9mPz3lMXGGGzReqdooOLS1oFGoaf9zLXOmcDovdOpVM6rXSAQlqMiW379eNd9_mdW2Ob7ApKv2JvVkwSy_IdL8CofWF_l0LkYDScKNTHTC1POWe4C1aef7GkStLoq3XL6iR-5LviNuiEBB_dbhFO3okb4NE0DEBvsiY7DB3HOibxxYAjtuex6_4rMT5_YgW0dJvI0SbsTZCe-i6m8FfvAoi4zNmNkAzl4HNijJTbTpbVeakLr4y"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r1VLTtVT8hdzdcbWyNQNsekmQARKiaJpd09edFc_AxgnANeJM8j1ykuSWTPURqg5sw3PtLqVysOJAoX28DRPX-LkQY7XEQWIGIAzH2YklupsfRAz6U21p-l-fpI0U-yYdLsyVIIZXeXI3_ShMuP4PvpJGYHG5Qyz81dZxmVvfei6-2lV17U7dnwEinHGPTfKbswSNJ9GXeEjbxpCE_Ps87gy-WH-BolDkuKSaP6jCkjv3T1PVp0uaMU0t1tpIXQxjVMa-JS_pKfA17dAD6-iSzmrrumINT93akz5pnbPPhW2QgkjGqOPjZxEdaj74agK6R0Tuk71k0zPbyHCwvi2MFgEmODVidcykpY_I09NANFSlN6Nk",
+            "q": "backend developer jobs India since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=07a39dbf5b4124c0&gl=in&hl=en&sxsrf=APpeQntY8zuHwwjGrGqgsf1y16L0xuKcjQ:1791246199299&q=backend+developer+jobs+India+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1VLTtVT8hdzdcbWyNQNsekmQARKiaJpd09edFc_AxgnANeJM8j1ykuSWTPURqg5sw3PtLqVysOJAoX28DRPX-LkQY7XEQWIGIAzH2YklupsfRAz6U21p-l-fpI0U-yYdLsyVIIZXeXI3_ShMuP4PvpJGYHG5Qyz81dZxmVvfei6-2lV17U7dnwEinHGPTfKbswSNJ9GXeEjbxpCE_Ps87gy-WH-BolDkuKSaP6jCkjv3T1PVp0uaMU0t1tpIXQxjVMa-JS_pKfA17dAD6-iSzmrrumINT93akz5pnbPPhW2QgkjGqOPjZxEdaj74agK6R0Tuk71k0zPbyHCwvi2MFgEmODVidcykpY_I09NANFSlN6Nk&udm=8&sa=X&ved=2ahUKEwiw8aeLkKSXAxWmkWoFHWirFyMQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=India&q=backend+developer+jobs+India+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r1VLTtVT8hdzdcbWyNQNsekmQARKiaJpd09edFc_AxgnANeJM8j1ykuSWTPURqg5sw3PtLqVysOJAoX28DRPX-LkQY7XEQWIGIAzH2YklupsfRAz6U21p-l-fpI0U-yYdLsyVIIZXeXI3_ShMuP4PvpJGYHG5Qyz81dZxmVvfei6-2lV17U7dnwEinHGPTfKbswSNJ9GXeEjbxpCE_Ps87gy-WH-BolDkuKSaP6jCkjv3T1PVp0uaMU0t1tpIXQxjVMa-JS_pKfA17dAD6-iSzmrrumINT93akz5pnbPPhW2QgkjGqOPjZxEdaj74agK6R0Tuk71k0zPbyHCwvi2MFgEmODVidcykpY_I09NANFSlN6Nk"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsm4uI7WjYVAd5vDMHerTjvyizVIPAJt1fWUQByUjyD2v2hhbABTvxoIPpnFLI6sMcgPROX86HvWns8idXNj2qn_saX8Z6KEXWCX7TngV0rPONOPEuo4wweUtPfOfkq0F26Z-G06jitc_mxF_RV8UseWhdQhToSEzSQXAqlRlwSbibt9tfPk2a29rUCBjyUIxczS5KbbLXGq8GfXK9kdQQBDd1IfNumS-rTC4VKLPCwqn8YrJNF27T5YKciYb-yzH5Xsoiw8MFYIZq4KcnJeiNcLwwMPSm6W-kQihjBSWji8eaVH3pfhfpGB8GM2OENxK7ixNI4NskJNOR3lNE_4Y8lvFqG5lWtwtkgLNWAvRbgAS3u32",
+            "q": "backend developer jobs India in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=07a39dbf5b4124c0&gl=in&hl=en&sxsrf=APpeQntY8zuHwwjGrGqgsf1y16L0xuKcjQ:1791246199299&q=backend+developer+jobs+India+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsm4uI7WjYVAd5vDMHerTjvyizVIPAJt1fWUQByUjyD2v2hhbABTvxoIPpnFLI6sMcgPROX86HvWns8idXNj2qn_saX8Z6KEXWCX7TngV0rPONOPEuo4wweUtPfOfkq0F26Z-G06jitc_mxF_RV8UseWhdQhToSEzSQXAqlRlwSbibt9tfPk2a29rUCBjyUIxczS5KbbLXGq8GfXK9kdQQBDd1IfNumS-rTC4VKLPCwqn8YrJNF27T5YKciYb-yzH5Xsoiw8MFYIZq4KcnJeiNcLwwMPSm6W-kQihjBSWji8eaVH3pfhfpGB8GM2OENxK7ixNI4NskJNOR3lNE_4Y8lvFqG5lWtwtkgLNWAvRbgAS3u32&udm=8&sa=X&ved=2ahUKEwiw8aeLkKSXAxWmkWoFHWirFyMQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=India&q=backend+developer+jobs+India+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsm4uI7WjYVAd5vDMHerTjvyizVIPAJt1fWUQByUjyD2v2hhbABTvxoIPpnFLI6sMcgPROX86HvWns8idXNj2qn_saX8Z6KEXWCX7TngV0rPONOPEuo4wweUtPfOfkq0F26Z-G06jitc_mxF_RV8UseWhdQhToSEzSQXAqlRlwSbibt9tfPk2a29rUCBjyUIxczS5KbbLXGq8GfXK9kdQQBDd1IfNumS-rTC4VKLPCwqn8YrJNF27T5YKciYb-yzH5Xsoiw8MFYIZq4KcnJeiNcLwwMPSm6W-kQihjBSWji8eaVH3pfhfpGB8GM2OENxK7ixNI4NskJNOR3lNE_4Y8lvFqG5lWtwtkgLNWAvRbgAS3u32"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rm96lwH7_D8FvvwTy0WTXu2PUQv0YqNMm44-qHtZ-4XkM5MXMEYdfIwjyKPeVyV09EzYmGHH5U8OHQzSIHErXBCgkEyfwtMfpf879BSEEddCDrRrUWuOGcGdqEDAfimUHzlTI5icYI6huYIHFQDXvST7oakHOmM7Ks184kchenndFipfJgHvjHbJBqbRNo7br5twewlmaV-GYsjZYTukxLnQaRTbddqG0en1VftKjVbbLPkNI1mKv5ebs-XAO5BgNDOrip20eFTpCovpaxn5aWKWsHjkpLIXvm4Nloj9059GJW1PzHKin9cTgOcdZLq1F8Bt3egoiEzCVpIbjv5-jjjrgJvP0PcoQ9VywVF2xBPP_4-MK",
+            "q": "backend developer jobs India in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=07a39dbf5b4124c0&gl=in&hl=en&sxsrf=APpeQntY8zuHwwjGrGqgsf1y16L0xuKcjQ:1791246199299&q=backend+developer+jobs+India+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rm96lwH7_D8FvvwTy0WTXu2PUQv0YqNMm44-qHtZ-4XkM5MXMEYdfIwjyKPeVyV09EzYmGHH5U8OHQzSIHErXBCgkEyfwtMfpf879BSEEddCDrRrUWuOGcGdqEDAfimUHzlTI5icYI6huYIHFQDXvST7oakHOmM7Ks184kchenndFipfJgHvjHbJBqbRNo7br5twewlmaV-GYsjZYTukxLnQaRTbddqG0en1VftKjVbbLPkNI1mKv5ebs-XAO5BgNDOrip20eFTpCovpaxn5aWKWsHjkpLIXvm4Nloj9059GJW1PzHKin9cTgOcdZLq1F8Bt3egoiEzCVpIbjv5-jjjrgJvP0PcoQ9VywVF2xBPP_4-MK&udm=8&sa=X&ved=2ahUKEwiw8aeLkKSXAxWmkWoFHWirFyMQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=India&q=backend+developer+jobs+India+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rm96lwH7_D8FvvwTy0WTXu2PUQv0YqNMm44-qHtZ-4XkM5MXMEYdfIwjyKPeVyV09EzYmGHH5U8OHQzSIHErXBCgkEyfwtMfpf879BSEEddCDrRrUWuOGcGdqEDAfimUHzlTI5icYI6huYIHFQDXvST7oakHOmM7Ks184kchenndFipfJgHvjHbJBqbRNo7br5twewlmaV-GYsjZYTukxLnQaRTbddqG0en1VftKjVbbLPkNI1mKv5ebs-XAO5BgNDOrip20eFTpCovpaxn5aWKWsHjkpLIXvm4Nloj9059GJW1PzHKin9cTgOcdZLq1F8Bt3egoiEzCVpIbjv5-jjjrgJvP0PcoQ9VywVF2xBPP_4-MK"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rTGFjtmTP_iRVRK1BxM_muQ-3S1_Zj8FEzFEL3oUh-xT-zus44gfbcWemJOA4-udzQyxRmsSA0Hdif2K6MjIANNJYr0TM1uaKnMZ55aNqFcZB6moDF_xyrjeWhApeV9mPz3lMXGGGzReqdooOLS1oFGoaf9zLXOmcDovdOpVM6rXSAQlqMiW379eNd9_mdW2Ob7ApKv2JvVkwSy_IdL8CofWF_l0LkYDScKNTHTC1POWe4C1aef7GkStLoq3XL6iR-5LviNuiEBB_dbhFO3okb4NE0DEBvsiY7DB3HOibxxYAjtuex6_4rMT5_YgW0dJvI0SbsTZCe-i6m8FfvAoi4zNmNkAzl4HNijJTbTpbVeakLr4y",
+            "q": "backend developer jobs India in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=07a39dbf5b4124c0&gl=in&hl=en&sxsrf=APpeQntY8zuHwwjGrGqgsf1y16L0xuKcjQ:1791246199299&q=backend+developer+jobs+India+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rTGFjtmTP_iRVRK1BxM_muQ-3S1_Zj8FEzFEL3oUh-xT-zus44gfbcWemJOA4-udzQyxRmsSA0Hdif2K6MjIANNJYr0TM1uaKnMZ55aNqFcZB6moDF_xyrjeWhApeV9mPz3lMXGGGzReqdooOLS1oFGoaf9zLXOmcDovdOpVM6rXSAQlqMiW379eNd9_mdW2Ob7ApKv2JvVkwSy_IdL8CofWF_l0LkYDScKNTHTC1POWe4C1aef7GkStLoq3XL6iR-5LviNuiEBB_dbhFO3okb4NE0DEBvsiY7DB3HOibxxYAjtuex6_4rMT5_YgW0dJvI0SbsTZCe-i6m8FfvAoi4zNmNkAzl4HNijJTbTpbVeakLr4y&udm=8&sa=X&ved=2ahUKEwiw8aeLkKSXAxWmkWoFHWirFyMQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=India&q=backend+developer+jobs+India+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rTGFjtmTP_iRVRK1BxM_muQ-3S1_Zj8FEzFEL3oUh-xT-zus44gfbcWemJOA4-udzQyxRmsSA0Hdif2K6MjIANNJYr0TM1uaKnMZ55aNqFcZB6moDF_xyrjeWhApeV9mPz3lMXGGGzReqdooOLS1oFGoaf9zLXOmcDovdOpVM6rXSAQlqMiW379eNd9_mdW2Ob7ApKv2JvVkwSy_IdL8CofWF_l0LkYDScKNTHTC1POWe4C1aef7GkStLoq3XL6iR-5LviNuiEBB_dbhFO3okb4NE0DEBvsiY7DB3HOibxxYAjtuex6_4rMT5_YgW0dJvI0SbsTZCe-i6m8FfvAoi4zNmNkAzl4HNijJTbTpbVeakLr4y"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspa7Skww03AP_dMKs0Uu4v4pkQ9OMikVTt0oLX1ZICRLqiIaGjOTRp-wMydXNdpNuPnyhv7MAKW_ON21Fi7e1-TNwb91vlq2FTMH8mnXzyIsDbJEA8SXx4FbdgEOd9c9xwwrLe50gc4Mw43VGSgsaE3Yc4cE8f5WM7eMkNn6Zg7hwfFQ_G50QW_w0H5ji_yp87VJnUbQ525y5hCsvld3mRzwgnJv4LCEvc6Noi5-QWPn6-ezApj3sqRuc50tZdAzd92IthvM8KWoj2_3o3mc6EU5QCKI3xyYFwNr5TcN3e2h7MYStrHFr_ytwGe6Q1vwNAX-3aI",
+            "q": "backend developer jobs India full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=07a39dbf5b4124c0&gl=in&hl=en&sxsrf=APpeQntY8zuHwwjGrGqgsf1y16L0xuKcjQ:1791246199299&q=backend+developer+jobs+India+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspa7Skww03AP_dMKs0Uu4v4pkQ9OMikVTt0oLX1ZICRLqiIaGjOTRp-wMydXNdpNuPnyhv7MAKW_ON21Fi7e1-TNwb91vlq2FTMH8mnXzyIsDbJEA8SXx4FbdgEOd9c9xwwrLe50gc4Mw43VGSgsaE3Yc4cE8f5WM7eMkNn6Zg7hwfFQ_G50QW_w0H5ji_yp87VJnUbQ525y5hCsvld3mRzwgnJv4LCEvc6Noi5-QWPn6-ezApj3sqRuc50tZdAzd92IthvM8KWoj2_3o3mc6EU5QCKI3xyYFwNr5TcN3e2h7MYStrHFr_ytwGe6Q1vwNAX-3aI&udm=8&sa=X&ved=2ahUKEwiw8aeLkKSXAxWmkWoFHWirFyMQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=India&q=backend+developer+jobs+India+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspa7Skww03AP_dMKs0Uu4v4pkQ9OMikVTt0oLX1ZICRLqiIaGjOTRp-wMydXNdpNuPnyhv7MAKW_ON21Fi7e1-TNwb91vlq2FTMH8mnXzyIsDbJEA8SXx4FbdgEOd9c9xwwrLe50gc4Mw43VGSgsaE3Yc4cE8f5WM7eMkNn6Zg7hwfFQ_G50QW_w0H5ji_yp87VJnUbQ525y5hCsvld3mRzwgnJv4LCEvc6Noi5-QWPn6-ezApj3sqRuc50tZdAzd92IthvM8KWoj2_3o3mc6EU5QCKI3xyYFwNr5TcN3e2h7MYStrHFr_ytwGe6Q1vwNAX-3aI"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspa7Skww03AP_dMKs0Uu4v4pkQ9OMikVTt0oLX1ZICRLkN-IAckngoMXOprrskLRib8uvcA8BpeSGyqNCxkYbReID53PwAs8mvPq9tJu-PAYIkc_8692GV4CjELvYXIgKmkQ9zW0CI62AJYotFLvmNyfZd0NjYpfXnZCArcA8lSPjyxowm5jFUBdYMfX58AXPMPODcUSAmAD9xvSJnOoPk9JpT-VYSyhe8htOt5sd6MkY7cNemwFrQED-3PJrmhkIn4DGQn2EokRNM7S_c8sbPYySX-KwGHix-khxUsTL4ZyLy4saNgf7nKyS1G5e6fy6X27LKI",
+            "q": "backend developer jobs India part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=07a39dbf5b4124c0&gl=in&hl=en&sxsrf=APpeQntY8zuHwwjGrGqgsf1y16L0xuKcjQ:1791246199299&q=backend+developer+jobs+India+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspa7Skww03AP_dMKs0Uu4v4pkQ9OMikVTt0oLX1ZICRLkN-IAckngoMXOprrskLRib8uvcA8BpeSGyqNCxkYbReID53PwAs8mvPq9tJu-PAYIkc_8692GV4CjELvYXIgKmkQ9zW0CI62AJYotFLvmNyfZd0NjYpfXnZCArcA8lSPjyxowm5jFUBdYMfX58AXPMPODcUSAmAD9xvSJnOoPk9JpT-VYSyhe8htOt5sd6MkY7cNemwFrQED-3PJrmhkIn4DGQn2EokRNM7S_c8sbPYySX-KwGHix-khxUsTL4ZyLy4saNgf7nKyS1G5e6fy6X27LKI&udm=8&sa=X&ved=2ahUKEwiw8aeLkKSXAxWmkWoFHWirFyMQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=India&q=backend+developer+jobs+India+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspa7Skww03AP_dMKs0Uu4v4pkQ9OMikVTt0oLX1ZICRLkN-IAckngoMXOprrskLRib8uvcA8BpeSGyqNCxkYbReID53PwAs8mvPq9tJu-PAYIkc_8692GV4CjELvYXIgKmkQ9zW0CI62AJYotFLvmNyfZd0NjYpfXnZCArcA8lSPjyxowm5jFUBdYMfX58AXPMPODcUSAmAD9xvSJnOoPk9JpT-VYSyhe8htOt5sd6MkY7cNemwFrQED-3PJrmhkIn4DGQn2EokRNM7S_c8sbPYySX-KwGHix-khxUsTL4ZyLy4saNgf7nKyS1G5e6fy6X27LKI"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Ys46JmFsOUv-ScPE08Ov_wIAeO4r297pkd_QDAm_zOY3c9w8tUUKCybxZoGmGHfU6cjBs_zFNFM-v27PWfAuinV3FzXBabUWZuGFb6a57BvWBPXME43AMBCBL7oZjTqi5SUmwl4dO9vyoUN0J_Svt8GFU7cksypLgl_GHG4RPpqwZXFc3MDDG7Fke1UuGXX5PnOmqfnnHzyeV8CYsyYZwaMTQ5wwuKDpvgF0Kvd9rkQEf_OamRs4CofIzMlddw0eY9MgHNrla329jRubQTq6I4oSd6-hgl2ofsct41pJ6tVe7MsChw",
+            "q": "backend developer jobs India contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=07a39dbf5b4124c0&gl=in&hl=en&sxsrf=APpeQntY8zuHwwjGrGqgsf1y16L0xuKcjQ:1791246199299&q=backend+developer+jobs+India+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Ys46JmFsOUv-ScPE08Ov_wIAeO4r297pkd_QDAm_zOY3c9w8tUUKCybxZoGmGHfU6cjBs_zFNFM-v27PWfAuinV3FzXBabUWZuGFb6a57BvWBPXME43AMBCBL7oZjTqi5SUmwl4dO9vyoUN0J_Svt8GFU7cksypLgl_GHG4RPpqwZXFc3MDDG7Fke1UuGXX5PnOmqfnnHzyeV8CYsyYZwaMTQ5wwuKDpvgF0Kvd9rkQEf_OamRs4CofIzMlddw0eY9MgHNrla329jRubQTq6I4oSd6-hgl2ofsct41pJ6tVe7MsChw&udm=8&sa=X&ved=2ahUKEwiw8aeLkKSXAxWmkWoFHWirFyMQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=India&q=backend+developer+jobs+India+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Ys46JmFsOUv-ScPE08Ov_wIAeO4r297pkd_QDAm_zOY3c9w8tUUKCybxZoGmGHfU6cjBs_zFNFM-v27PWfAuinV3FzXBabUWZuGFb6a57BvWBPXME43AMBCBL7oZjTqi5SUmwl4dO9vyoUN0J_Svt8GFU7cksypLgl_GHG4RPpqwZXFc3MDDG7Fke1UuGXX5PnOmqfnnHzyeV8CYsyYZwaMTQ5wwuKDpvgF0Kvd9rkQEf_OamRs4CofIzMlddw0eY9MgHNrla329jRubQTq6I4oSd6-hgl2ofsct41pJ6tVe7MsChw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rhCEkIt9GvvRJJ93adf3AN6RdwOYndVZX5SN808X26_9tfRiGNYy0YLhVcwi2Z9EcPxIr56fwzl_Ar64o1rdn3kS3FTeF0ek12NbR1QWCOpNnjW38nrUkGolG-4wzAHAVqG0XZ4mZi5BmaufOzgk7lP7is3_Gmt1d87WcUbwMInIEgLEBDci7Ee8Y9l8DD2iWHVNU-EkCD1KobciFivQRIGVckBNA-HswzK-vqqDsS32Zrpzqjn82LJsQE31a4ToZ_n_x3pbhFvu6Uodf0CPfM1YMvKg-4JJnLHG5MkasX4dVhiU84kZX8ttCQsxaitLmEH1A6ZCp7kR-esQ9Z0xQA9Zovsw",
+            "q": "backend developer jobs India internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=07a39dbf5b4124c0&gl=in&hl=en&sxsrf=APpeQntY8zuHwwjGrGqgsf1y16L0xuKcjQ:1791246199299&q=backend+developer+jobs+India+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rhCEkIt9GvvRJJ93adf3AN6RdwOYndVZX5SN808X26_9tfRiGNYy0YLhVcwi2Z9EcPxIr56fwzl_Ar64o1rdn3kS3FTeF0ek12NbR1QWCOpNnjW38nrUkGolG-4wzAHAVqG0XZ4mZi5BmaufOzgk7lP7is3_Gmt1d87WcUbwMInIEgLEBDci7Ee8Y9l8DD2iWHVNU-EkCD1KobciFivQRIGVckBNA-HswzK-vqqDsS32Zrpzqjn82LJsQE31a4ToZ_n_x3pbhFvu6Uodf0CPfM1YMvKg-4JJnLHG5MkasX4dVhiU84kZX8ttCQsxaitLmEH1A6ZCp7kR-esQ9Z0xQA9Zovsw&udm=8&sa=X&ved=2ahUKEwiw8aeLkKSXAxWmkWoFHWirFyMQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=India&q=backend+developer+jobs+India+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rhCEkIt9GvvRJJ93adf3AN6RdwOYndVZX5SN808X26_9tfRiGNYy0YLhVcwi2Z9EcPxIr56fwzl_Ar64o1rdn3kS3FTeF0ek12NbR1QWCOpNnjW38nrUkGolG-4wzAHAVqG0XZ4mZi5BmaufOzgk7lP7is3_Gmt1d87WcUbwMInIEgLEBDci7Ee8Y9l8DD2iWHVNU-EkCD1KobciFivQRIGVckBNA-HswzK-vqqDsS32Zrpzqjn82LJsQE31a4ToZ_n_x3pbhFvu6Uodf0CPfM1YMvKg-4JJnLHG5MkasX4dVhiU84kZX8ttCQsxaitLmEH1A6ZCp7kR-esQ9Z0xQA9Zovsw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspa7Skww03AP_dMKs0Uu4v4pkQ9OMikVTt0oLX1ZICRLqiIaGjOTRp-wMydXNdpNuPnyhv7MAKW_ON21Fi7e1-TNwb91vlq2FTMH8mnXzyIsDbJEA8SXx4FbdgEOd9c9xwwrLe50gc4Mw43VGSgsaE3Yc4cE8f5WM7eMkNn6Zg7hwfFQ_G50QW_w0H5ji_yp87VJnUbQ525y5hCsvld3mRzwgnJv4LCEvc6Noi5-QWPn6-ezApj3sqRuc50tZdAzd92IthvM8KWoj2_3o3mc6EU5QCKI3xyYFwNr5TcN3e2h7MYStrHFr_ytwGe6Q1vwNAX-3aI",
+            "q": "backend developer jobs India full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=07a39dbf5b4124c0&gl=in&hl=en&sxsrf=APpeQntY8zuHwwjGrGqgsf1y16L0xuKcjQ:1791246199299&q=backend+developer+jobs+India+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspa7Skww03AP_dMKs0Uu4v4pkQ9OMikVTt0oLX1ZICRLqiIaGjOTRp-wMydXNdpNuPnyhv7MAKW_ON21Fi7e1-TNwb91vlq2FTMH8mnXzyIsDbJEA8SXx4FbdgEOd9c9xwwrLe50gc4Mw43VGSgsaE3Yc4cE8f5WM7eMkNn6Zg7hwfFQ_G50QW_w0H5ji_yp87VJnUbQ525y5hCsvld3mRzwgnJv4LCEvc6Noi5-QWPn6-ezApj3sqRuc50tZdAzd92IthvM8KWoj2_3o3mc6EU5QCKI3xyYFwNr5TcN3e2h7MYStrHFr_ytwGe6Q1vwNAX-3aI&udm=8&sa=X&ved=2ahUKEwiw8aeLkKSXAxWmkWoFHWirFyMQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=India&q=backend+developer+jobs+India+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspa7Skww03AP_dMKs0Uu4v4pkQ9OMikVTt0oLX1ZICRLqiIaGjOTRp-wMydXNdpNuPnyhv7MAKW_ON21Fi7e1-TNwb91vlq2FTMH8mnXzyIsDbJEA8SXx4FbdgEOd9c9xwwrLe50gc4Mw43VGSgsaE3Yc4cE8f5WM7eMkNn6Zg7hwfFQ_G50QW_w0H5ji_yp87VJnUbQ525y5hCsvld3mRzwgnJv4LCEvc6Noi5-QWPn6-ezApj3sqRuc50tZdAzd92IthvM8KWoj2_3o3mc6EU5QCKI3xyYFwNr5TcN3e2h7MYStrHFr_ytwGe6Q1vwNAX-3aI"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspa7Skww03AP_dMKs0Uu4v4pkQ9OMikVTt0oLX1ZICRLkN-IAckngoMXOprrskLRib8uvcA8BpeSGyqNCxkYbReID53PwAs8mvPq9tJu-PAYIkc_8692GV4CjELvYXIgKmkQ9zW0CI62AJYotFLvmNyfZd0NjYpfXnZCArcA8lSPjyxowm5jFUBdYMfX58AXPMPODcUSAmAD9xvSJnOoPk9JpT-VYSyhe8htOt5sd6MkY7cNemwFrQED-3PJrmhkIn4DGQn2EokRNM7S_c8sbPYySX-KwGHix-khxUsTL4ZyLy4saNgf7nKyS1G5e6fy6X27LKI",
+            "q": "backend developer jobs India part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=07a39dbf5b4124c0&gl=in&hl=en&sxsrf=APpeQntY8zuHwwjGrGqgsf1y16L0xuKcjQ:1791246199299&q=backend+developer+jobs+India+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspa7Skww03AP_dMKs0Uu4v4pkQ9OMikVTt0oLX1ZICRLkN-IAckngoMXOprrskLRib8uvcA8BpeSGyqNCxkYbReID53PwAs8mvPq9tJu-PAYIkc_8692GV4CjELvYXIgKmkQ9zW0CI62AJYotFLvmNyfZd0NjYpfXnZCArcA8lSPjyxowm5jFUBdYMfX58AXPMPODcUSAmAD9xvSJnOoPk9JpT-VYSyhe8htOt5sd6MkY7cNemwFrQED-3PJrmhkIn4DGQn2EokRNM7S_c8sbPYySX-KwGHix-khxUsTL4ZyLy4saNgf7nKyS1G5e6fy6X27LKI&udm=8&sa=X&ved=2ahUKEwiw8aeLkKSXAxWmkWoFHWirFyMQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=India&q=backend+developer+jobs+India+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6LUzyRs4vLyA9dIpaQGcspa7Skww03AP_dMKs0Uu4v4pkQ9OMikVTt0oLX1ZICRLkN-IAckngoMXOprrskLRib8uvcA8BpeSGyqNCxkYbReID53PwAs8mvPq9tJu-PAYIkc_8692GV4CjELvYXIgKmkQ9zW0CI62AJYotFLvmNyfZd0NjYpfXnZCArcA8lSPjyxowm5jFUBdYMfX58AXPMPODcUSAmAD9xvSJnOoPk9JpT-VYSyhe8htOt5sd6MkY7cNemwFrQED-3PJrmhkIn4DGQn2EokRNM7S_c8sbPYySX-KwGHix-khxUsTL4ZyLy4saNgf7nKyS1G5e6fy6X27LKI"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Ys46JmFsOUv-ScPE08Ov_wIAeO4r297pkd_QDAm_zOY3c9w8tUUKCybxZoGmGHfU6cjBs_zFNFM-v27PWfAuinV3FzXBabUWZuGFb6a57BvWBPXME43AMBCBL7oZjTqi5SUmwl4dO9vyoUN0J_Svt8GFU7cksypLgl_GHG4RPpqwZXFc3MDDG7Fke1UuGXX5PnOmqfnnHzyeV8CYsyYZwaMTQ5wwuKDpvgF0Kvd9rkQEf_OamRs4CofIzMlddw0eY9MgHNrla329jRubQTq6I4oSd6-hgl2ofsct41pJ6tVe7MsChw",
+            "q": "backend developer jobs India contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=07a39dbf5b4124c0&gl=in&hl=en&sxsrf=APpeQntY8zuHwwjGrGqgsf1y16L0xuKcjQ:1791246199299&q=backend+developer+jobs+India+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Ys46JmFsOUv-ScPE08Ov_wIAeO4r297pkd_QDAm_zOY3c9w8tUUKCybxZoGmGHfU6cjBs_zFNFM-v27PWfAuinV3FzXBabUWZuGFb6a57BvWBPXME43AMBCBL7oZjTqi5SUmwl4dO9vyoUN0J_Svt8GFU7cksypLgl_GHG4RPpqwZXFc3MDDG7Fke1UuGXX5PnOmqfnnHzyeV8CYsyYZwaMTQ5wwuKDpvgF0Kvd9rkQEf_OamRs4CofIzMlddw0eY9MgHNrla329jRubQTq6I4oSd6-hgl2ofsct41pJ6tVe7MsChw&udm=8&sa=X&ved=2ahUKEwiw8aeLkKSXAxWmkWoFHWirFyMQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=India&q=backend+developer+jobs+India+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Ys46JmFsOUv-ScPE08Ov_wIAeO4r297pkd_QDAm_zOY3c9w8tUUKCybxZoGmGHfU6cjBs_zFNFM-v27PWfAuinV3FzXBabUWZuGFb6a57BvWBPXME43AMBCBL7oZjTqi5SUmwl4dO9vyoUN0J_Svt8GFU7cksypLgl_GHG4RPpqwZXFc3MDDG7Fke1UuGXX5PnOmqfnnHzyeV8CYsyYZwaMTQ5wwuKDpvgF0Kvd9rkQEf_OamRs4CofIzMlddw0eY9MgHNrla329jRubQTq6I4oSd6-hgl2ofsct41pJ6tVe7MsChw"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rhCEkIt9GvvRJJ93adf3AN6RdwOYndVZX5SN808X26_9tfRiGNYy0YLhVcwi2Z9EcPxIr56fwzl_Ar64o1rdn3kS3FTeF0ek12NbR1QWCOpNnjW38nrUkGolG-4wzAHAVqG0XZ4mZi5BmaufOzgk7lP7is3_Gmt1d87WcUbwMInIEgLEBDci7Ee8Y9l8DD2iWHVNU-EkCD1KobciFivQRIGVckBNA-HswzK-vqqDsS32Zrpzqjn82LJsQE31a4ToZ_n_x3pbhFvu6Uodf0CPfM1YMvKg-4JJnLHG5MkasX4dVhiU84kZX8ttCQsxaitLmEH1A6ZCp7kR-esQ9Z0xQA9Zovsw",
+            "q": "backend developer jobs India internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=07a39dbf5b4124c0&gl=in&hl=en&sxsrf=APpeQntY8zuHwwjGrGqgsf1y16L0xuKcjQ:1791246199299&q=backend+developer+jobs+India+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rhCEkIt9GvvRJJ93adf3AN6RdwOYndVZX5SN808X26_9tfRiGNYy0YLhVcwi2Z9EcPxIr56fwzl_Ar64o1rdn3kS3FTeF0ek12NbR1QWCOpNnjW38nrUkGolG-4wzAHAVqG0XZ4mZi5BmaufOzgk7lP7is3_Gmt1d87WcUbwMInIEgLEBDci7Ee8Y9l8DD2iWHVNU-EkCD1KobciFivQRIGVckBNA-HswzK-vqqDsS32Zrpzqjn82LJsQE31a4ToZ_n_x3pbhFvu6Uodf0CPfM1YMvKg-4JJnLHG5MkasX4dVhiU84kZX8ttCQsxaitLmEH1A6ZCp7kR-esQ9Z0xQA9Zovsw&udm=8&sa=X&ved=2ahUKEwiw8aeLkKSXAxWmkWoFHWirFyMQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=India&q=backend+developer+jobs+India+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rhCEkIt9GvvRJJ93adf3AN6RdwOYndVZX5SN808X26_9tfRiGNYy0YLhVcwi2Z9EcPxIr56fwzl_Ar64o1rdn3kS3FTeF0ek12NbR1QWCOpNnjW38nrUkGolG-4wzAHAVqG0XZ4mZi5BmaufOzgk7lP7is3_Gmt1d87WcUbwMInIEgLEBDci7Ee8Y9l8DD2iWHVNU-EkCD1KobciFivQRIGVckBNA-HswzK-vqqDsS32Zrpzqjn82LJsQE31a4ToZ_n_x3pbhFvu6Uodf0CPfM1YMvKg-4JJnLHG5MkasX4dVhiU84kZX8ttCQsxaitLmEH1A6ZCp7kR-esQ9Z0xQA9Zovsw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Founding Engineer, Backend",
+      "company_name": "Scalio",
+      "location": "Bengaluru, Karnataka",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=backend+developer+jobs+India&htidocid=BfdoHzq1_sJnDyOaAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLMQ7CMAwAQLH2CQzIM6oSBGKBrRIwMPKAyk2tNDTYUZxKHXkD_JCXAMttV70W1e4sE_eBPZzYBybKNTToRuIePs833KUDJcxuAGG4iPhIy-NQStKDtarReC1YgjNOHlaYOpntL-mfVgfMlCIWarf7zWwS-_Xq5jAGgcDQEHuMU55quGJmLDjiF7bfXuWVAAAA&shmds=v1_ARwrE20Oi16Tn_mXWgpT2jL5uxosnaUnKPfPK5uH-1Svxx1-TA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=backend+developer+jobs+India&htidocid=BfdoHzq1_sJnDyOaAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac43f7760cbef972051ae3c/images/A4QBKsuK_xuPYeo-xCrtXeZMaThSWVzY3JwSLj6nyjI.jpeg",
+      "extensions": [
+        "15 hours ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/founding-engineer-backend-at-scalio-4474248810",
+      "job_title": "Founding Engineer, Backend",
+      "description": "Scalio is building an AI marketing team for millions of small businesses. We’re looking for people who take ownership, build thoughtfully, and turn their work into measurable customer outcomes.\n\n\n\n\nFounding Engineer, Backend\n\n\n\n\nScalio | Bengaluru, India | On-site | Full-time\n\n\n\n\nCompensation: ₹30–60 LPA annual fixed salary plus equity. Equity terms discussed during hiring.\n\n\n\n\n\n\n\nThe role\n\n\n\n\nOwn foundational backend systems for Scalio’s AI marketing product. Work closely with the founders to turn ambiguous product needs into reliable services, make architectural decisions, and establish engineering practices that help a small team ship quickly.\n\n\n\n\nWhat you’ll work on\n\n\n\n\n• APIs, data models, asynchronous jobs, and integrations supporting marketing workflows.\n\n\n\n\n• Reliable orchestration of generation jobs and external services.\n\n\n\n\n• Authentication, access control, usage tracking, and billing integrations.\n\n\n\n\n• Performance, observability, incident diagnosis, and operational tooling.\n\n\n\n\n• Architecture and implementation from early design through production.\n\n\n\n\nWhat we’re looking for\n\n\n\n\n• 4+ years of software engineering experience and strong backend fundamentals.\n\n\n\n\n• Evidence of independently building and operating production systems.\n\n\n\n\n• Practical experience with relational databases, queues, retries, and concurrency.\n\n\n\n\n• Sound judgment about reliability, delivery speed, and architectural complexity.\n\n\n\n\n• Clear communication and comfort working directly with founders.\n\n\n\n\nStrong plus\n\n\n\n\nEarly-stage startup ownership, AI product infrastructure, payments integrations, cloud operations, and effective use of AI coding tools.\n\n\n\n\n\n\n\nRequired written questions\n\n\n\n\n1. Describe a backend you built from an early stage into production. What did you personally own, what scale did it reach, and which architectural decision mattered most?\n\n\n\n\n2. Share a repository, product, technical article, or other relevant work. Which parts did you build?\n\n\n\n\n3. How would you design a generation workflow that may take several minutes and calls an unreliable external provider? Cover job state, retries, duplicate requests, and recovery.\n\n\n\n\n4. Describe a production incident you personally resolved. How did you find the cause and prevent recurrence?\n\n\n\n\n5. Give an example of an ambiguous requirement you turned into a shipped system. What tradeoffs did you make?\n\n\n\n\n6. Describe a decision where you deliberately chose a simpler architecture. What did you defer, and what would trigger a redesign?\n\n\n\n\n\n\n\nApplication — all six answers required\n\n\n\n\nApply through our Google application form: https://docs.google.com/forms/d/e/1FAIpQLSft_tSA5YnlqrgLbnvKP8RKwg-E1AJyB6GNYdflBF8zYPfRKA/viewform?usp=header\n\n\n\n\nProvide your name, email, phone number including country code, résumé/CV link, relevant experience, availability to work full-time on-site in Bengaluru, and answers to all six questions above. Include relevant links and clearly explain your personal contribution. Use concrete examples; generic answers will not stand out. Please omit confidential employer or customer information.\n\n\n\n\nWe care more about demonstrated work and results than degrees, company names, or familiarity with every tool.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/founding-engineer-backend-at-scalio-4474248810?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/founding-engineer-backend-scalio-bengaluru--fj-2397783221?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-4112-b7dcdb0a7d0daf5123f16b9e2fccc1bb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/8820001625528598528?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGb3VuZGluZyBFbmdpbmVlciwgQmFja2VuZCIsImNvbXBhbnlfbmFtZSI6IlNjYWxpbyIsImh0aWRvY2lkIjoiQmZkb0h6cTFfc0puRHlPYUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURkUzYURSdExWaENhell3Um04MlJFWXlRVWxmZDJoTmFWQnVjV1oxTjNsck9VbHZPRE5JWVV4dFVqbGlXVFprUlhGWFVIUTViSGh3TlVGZk16QjZObUpWYTNkSGFXRmxhVTEwV25oTVJHTjBlRE52YWpReFZtWkNNMnBNZWpKRFpWWjZRVTVFVUd0WVlVWjVXa3B3TmtzMVZIZDNRMjFqVWxGZmVVMUxWbGRmWDFJeE1WVVNGMlI2WDBWaGRrUmFSV0ZoYW5GMGMxQTJUbUpsYlVGSkdpSkJSSE55T1daUmEzbzVSRGM1TWxocVdsWkdXVTVHVlhaeWEwTnNZbDlhWkV0biIsImZjdiI6IjMiLCJmY19pZCI6IkJmZG9IenExX3NKbkR5T2FBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Backend Developer Secunderabad (India)",
+      "company_name": "Quik Hire Staffing",
+      "location": "Hyderabad, Telangana",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=backend+developer+jobs+India&htidocid=1K2J_vDiZxCEazHnAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_y3NMQrCMBSAYVx7BKc3qkgjgosOggjWUepeXpPXNDa-hCSVunkHb-GxPIkKLv_28WevUbbdoeyIFezpRtZ5ClCS7FlRwBoVTI6sDE7h_XjCxdUQCYNswTEcnNOWxps2JR_XQsRocx0TJiNz6a7CMdVuEF8Uf6lii4G8xUTVcrUYcs96Njv1poPCBIIyYdMY1mAYivt_P4czWWSNjB8OVPcvrQAAAA&shmds=v1_ARwrE23RgF6tpgkrBJwLaLDDA3hCrS5njcEZfG-oHgAlsgotFQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=backend+developer+jobs+India&htidocid=1K2J_vDiZxCEazHnAAAAAA%3D%3D",
+      "extensions": [
+        "24 hours ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/backend-developer-secunderabad-india/quik-hire-staffing/19708648",
+      "job_title": "Backend Developer Secunderabad (India)",
+      "description": "Role: Backend Developer - C#/.NET (Remote)   \nLocation: Remote (Work from Anywhere)   \n\nRole Overview:   \n\nWe are hiring for one of our clients, seeking a Backend C#/.NET Developer to work on a Full time basis. The role involves developing and maintaining backend services using C# and .NET technologies. You will collaborate with cross-functional teams to deliver scalable and productive solutions.   \n\nKey Responsibilities:   \n\n Develop, test, and deploy backend services and APIs using C# and .NET.   \n\n Design and implement robust, scalable architecture solutions.   \n\n Collaborate with frontend developers and other stakeholders to integrate systems.   \n\n Optimize application performance and resolve technical issues.   \n\n Write clean, maintainable, and well-documented code following best practices.   \n\nRequired Skills & Qualifications:   \n\n Proficiency in C# and .NET framework development.   \n\n Experience with backend API development and integration.   \n\n Knowledge of database design and SQL Server or similar databases.   \n\n Familiarity with cloud platforms such as Azure or AWS is preferred.   \n\n Solid problem-solving and debugging skills.   \n\nMore About the Opportunity:   \n\nThis role offers a unique opportunity to work with a global leader in the Software Development industry, contributing to the development of cutting-edge backend solutions. The position is fully remote, allowing for flexible work arrangements.   \n\nEqual Opportunity Employer:   \n\nWe hire based on skills and expertise. All qualified candidates are welcome regardless of background, experience, or prior employment history. Applications are reviewed solely on demonstrated technical ability and qualifications.   \n\nApply Now .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/backend-developer-secunderabad-india/quik-hire-staffing/19708648?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCYWNrZW5kIERldmVsb3BlciBTZWN1bmRlcmFiYWQgKEluZGlhKSIsImNvbXBhbnlfbmFtZSI6IlF1aWsgSGlyZSBTdGFmZmluZyIsImh0aWRvY2lkIjoiMUsySl92RGlaeENFYXpIbkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTblUyYzJaaGNDMUVYMjVTV2s5M1MwNUdUbmRJV1RkemVqSTJaMnhxZDA1VVYzZ3plRlp3Umt3dFQwUkdTREpZUkZoSVgyNUZlVmxYUW5Cb1RISmlNVlJ2U0VkU2N6bGFOVk55YW5oelFWZHdRVUZqYUdkcVNGbFlWV1JtU2xwa1JqaFlOVnBOYkV0amNuSldOVFJJZVMwMk1tMVVZa1IzUmxSc1pqWndUVmhzYzFGWGVuTVNGMlI2WDBWaGRrUmFSV0ZoYW5GMGMxQTJUbUpsYlVGSkdpSkJSSE55T1daVFNYSkRZM1JuYTNGTllVNU9kVk5IVDFkTVN6aFhWeTFOZHpabiIsImZjdiI6IjMiLCJmY19pZCI6IjFLMkpfdkRpWnhDRWF6SG5BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Java Backend Developer",
+      "company_name": "Capgemini",
+      "location": "Pune, Maharashtra",
+      "via": "Capgemini",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=backend+developer+jobs+India&htidocid=9HPeuQc9GwxjleHNAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCAYVz7CA5ys0gjgotuKgiC4BuUazyS2PQu5GLp6BO4-IY-iXX5p--v3rPKXHBAOKDtiO9wooGiJMrwfX3gIS0oYbYehOEs4iLN976UpDtjVGPttGAJtrbSG2FqZTTTpP806jFTilio2WzXY53YLRdHTI76wAECw-3JtIIrThDVl4w_qRgTqpEAAAA&shmds=v1_ARwrE20Y8mkdc0-JidSdeLYDIE8nzntBCUB4yeivTIeWdTLsAw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=backend+developer+jobs+India&htidocid=9HPeuQc9GwxjleHNAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAaVBMVEX___8AWKoAUKcAVqkATabM1ef4-fz09vrb4e7h5vH8_P2ZrNEAUqi4xN4ARqPq7fVHcbWouNcAL5x2ksQAQ6JsisA5abGMosxkhb4AEZVZe7nCy-IAJZnV3OuRp84vYa4APaCDnMkANZ6EQRJkAAABWUlEQVRIie2S0XKEIAxFLyICKgKLopUq6v9_ZJHuy3Y67nM7nodMJuZmzA3Azc3NzT9npEVz9X3hz6TKsZ5alRNnwD-qC-EcnsnnOUEVLe2mlMjPJBqf87hOQagalUS9VGuan4qABrM5wdBRQmjnAGvyNNXOEN4XDKtpuI7G1nTsg35IzAu8LDYNmn6vJEnnV1dhnPIeLVL7QwcXCIx2gTk-G7U204rI4K3dLVrwPulIacuewfpTaBQKLXuw0uzoxBC8VNGxfRIzDoZykMrhgO6Srmgi6VTaUQJNF8SDKc9jYL5p2b4J7gsrvAO10yr7EjKKTcAXtPUqbud---H8KDq_UDORIRllXbQDjdzI-qEwGBBjU30mLILPdGBbI7MvQsnsHkT2SZjT_-_7sNfD1NkO48JrGUs8L1LC_eh_iz5SCGmtq-fwK-E8N_WXD_AC_r7l5ubm5q_wBWeUExct_wZWAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.capgemini.com/in-en/jobs/512936-en_GB+sap_btp",
+      "job_title": "Java Backend Developer",
+      "description": "Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you’d like, where you’ll be supported and inspired by a collaborative community of colleagues around the world, and where you’ll be able to reimagine what’s possible. Join us and help the world’s leading organizations unlock the value of technology and build a more sustainable, more inclusive world.Job RoleWe are seeking a highly skilled Java Developer with 6–12 years of experience to join our dynamic team in Pune & Hyderabad. The ideal candidate will have strong expertise in back-end development using Java technologies. Exposure to treasury and capital markets will be considered a significant advantage.Your ProfileStrong proficiency in Java, Spring Boot, and RESTful APIs.Hands-on experience with databases such as Oracle, MySQL, or PostgreSQL.Familiarity with version control systems like Git.Understanding of software development lifecycle and agile methodologies.Excellent problem-solving and analytical skills.Strong communication and collaboration abilities.Strong proficiency in Java, Spring Boot, and RESTful APIs. Hands-on experience with databases such as Oracle, MySQL, or PostgreSQL.Familiarity with version control systems like Git.What you'll love about working hereYou can shape your career with us. We offer a range of career paths and internal opportunities within Capgemini group. You will also get personalized career guidance from our leaders.You will get comprehensive wellness benefits including health checks, telemedicine, insurance with top-ups, elder care, partner coverage or new parent support via flexible work.At Capgemini, you can work on cutting-edge projects in tech and engineering with industry leaders or create solutions to overcome societal and environmental challenges.Capgemini is an AI-powered global business and technology transformation partner, delivering tangible business value. We imagine the future of organizations and make it real with AI, technology and people. With our strong heritage of nearly 60 years, we are a responsible and diverse group of 420,000 team members in more than 50 countries. We deliver end-to-end services and solutions with our deep industry expertise and strong partner ecosystem, leveraging our capabilities across strategy, technology, design, engineering and business operations. The Group reported 2024 global revenues of €22.1 billion.Make it real | www.capgemini.com",
+      "apply_options": [
+        {
+          "title": "Capgemini",
+          "link": "https://www.capgemini.com/in-en/jobs/512936-en_GB+sap_btp?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/java-backend-developer/11234619?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/java-backend-developer/avp-hr-solutions-private-limited/19613586?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/java-backend-developer-persistent-systems-pune-65709951?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Apna Jobs",
+          "link": "https://apna.co/job/pune/java-backend-developer-vadodara-1498631041?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/java-developer-capgemini-JV_KO0,14_KE15,24.htm?jl=1010257778449&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/j_yJ3SopTF--UhFk_pxhipRnoU6wYZjb64PsFkZwuwoKYatas45oPA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Cutshort",
+          "link": "https://cutshort.io/job/Java-backend-developer-Pune-Concentric-AI-aUrYaO0J?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKYXZhIEJhY2tlbmQgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQ2FwZ2VtaW5pIiwiaHRpZG9jaWQiOiI5SFBldVFjOUd3eGpsZUhOQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNrRndZVzVWYW1oTlduRk9hbTF2VDJkMlRUWTBObGhIU0ROcmQyeFhZV3BhUmpCWmIzcGhaV0U1ZVZSc1gxUXhSRVJpU0c5cWRtaFJTVkF3TjNacFZIa3lSMWh1TlRkbFVVeEhWRVkwZDJkNmRqYzVNMTl4U0hocVJqRnZVRUZmV1hZd09WUlliWFZsUjJ0VU1HeFJRVFpzU1dNNVZDMTZjemhqVGpFdGNGcG1UR2M1Y21VU0YyUjZYMFZoZGtSYVJXRmhhbkYwYzFBMlRtSmxiVUZKR2lKQlJITnlPV1pVZWpJMmFrVXlibWREVGsxMVUzWmlOVVJOVm05T2FuWlRka2RCIiwiZmN2IjoiMyIsImZjX2lkIjoiOUhQZXVRYzlHd3hqbGVITkFBQUFBQT09In0="
+    },
+    {
+      "title": "Backend Developer (Python and Django)",
+      "company_name": "Ditto Insurance",
+      "location": "Bengaluru, Karnataka",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=backend+developer+jobs+India&htidocid=SD5ERYwV3fhhZ69tAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWLOwrCQBBAsc0RrKbzg2RFsFGwCAERG28QJuuw-awzYXcisfMO3sGDeRKT5hXv8ZLvLDllaFviO-T0JC8dBVjeXloJA062QXaygt_7A42UEAmDrWCsZxHnaX6sVLt4MCZGn7qoqLVNrTyMMJUymHGKE4pYYaDOo1Kx22-HtGO3XuS1qsCFYx-QLUHNkBE79H3oN3DFwKjY4h_dkVqmqQAAAA&shmds=v1_ARwrE22hntdmg7U9adi2_jj7oG5XnJ8qYR4sO_TfV0kHuhbWJQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=backend+developer+jobs+India&htidocid=SD5ERYwV3fhhZ69tAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac43f7760cbef972051ae3c/images/H70k11C8VBWDvnh78qij4gXiX7YbBomMrgEG-X8QKKM.jpeg",
+      "extensions": [
+        "6 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/backend-developer-python-and-django-at-ditto-insurance-4471904307",
+      "job_title": "Backend Developer (Python and Django)",
+      "description": "What's Ditto?\n\nDitto’s mission is to help people make well-informed insurance decisions - from expert advisory and policy purchases to dedicated claim support. We pioneered the industry-first “No-spam” policy, and over the past five years, we’ve assisted over 700,000 users with personalised advice on health and term insurance. We carry a 4.9 rating with 32,000+ reviews on Google.\n\nDitto is part of the Finshots family (500K+ subscribers) and is backed by Zerodha, India’s largest stockbroker. We won LinkedIn’s Top Startup award in both 2022 and 2023.\n\n\n\n\nResponsibilities\n\nArchitect and build end-to-end backend services and APIs.Integrate with external systems such as insurers, payment gateways, and other partners.Ensure high observability, performance, and reliability across systems.Write clean, reusable, and maintainable code with a focus on scalability.Implement comprehensive test coverage and maintain code quality.Manage database design, migrations, scripting, and administration.\n\n\nExperience & Skills\n\n2-8 years of experience in backend development.Hands-on experience with low-level & high-level system design.Proven experience building scalable, secure backend systems (APIs, middleware, caching).Proficiency in Python, Django, Django REST Framework (DRF), PostgreSQL, Redis, Celery, and basic HTML/CSS.Experience developing RESTful APIs.Familiarity with AWS or other major cloud platforms is a plus.Strong sense of ownership, problem-solving ability, and leadership qualities.\n\n\nPerks\n\nComprehensive health and term insuranceESOPsCompensation as per industry standards\n\n\nOur Interview Process: \n\nWe value your time and aim to complete the process within 3 weeks, consisting of the following stages:\n\nThe schedule is as follows:\n\nHR Introductory RoundTech-Connect RoundLive Coding Round 1 - onlineLive Coding Round 2 -(in office)Founders round\n\n\nThis is an in-office role. Our address is: Fortuna-1, No 680, 15th Cross, J.P Nagar 2nd phase, J P Nagar, Bangalore, Bangalore South - 560078, Karnataka, India\n\n\n\n\nPlease Note: Beware of recruitment scams. Ditto does not charge any fees at any stage of the hiring process. If you receive any suspicious message claiming to be from Ditto, please verify through our official channels.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/backend-developer-python-and-django-at-ditto-insurance-4471904307?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/backend-developer-python-and-django/ditto-insurance/19679963?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/backend-developer-python-and-django-ditto-insurance-bengaluru-karnataka--t7xk-859035674?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/4447783604633731072?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/340511373/backend-developer-python-and-django-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCYWNrZW5kIERldmVsb3BlciAoUHl0aG9uIGFuZCBEamFuZ28pIiwiY29tcGFueV9uYW1lIjoiRGl0dG8gSW5zdXJhbmNlIiwiaHRpZG9jaWQiOiJTRDVFUll3VjNmaGhaNjl0QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMxUjJTRVIwWW5waFEwcHJiVmh3YlVvdFl6VnBRMEpEWkZOMmFVTnJVVmd0VXpCNk1tZzBNVll3UlZCNmFEUnBUVFZ1T1c1dE9URmlSakJ4ZG1OWVdXNTFlbnBETUd4S1dUWklWREU1VFZSWFRFSnFNR0Z3YVZWRVFrMUhjRFYxVldab2FVSmpSM05ZVDJWRFMyVnFPVm8wWmpCVk4xcEZRVWRyVEROdFFWSm9SMmx3TnpBU0YyUjZYMFZoZGtSYVJXRmhhbkYwYzFBMlRtSmxiVUZKR2lKQlJITnlPV1pVVVhkMVFtVkRSSEZIWjNJMmRrSjZlUzB4TW14SlgxUlVTbE5uIiwiZmN2IjoiMyIsImZjX2lkIjoiU0Q1RVJZd1YzZmhoWjY5dEFBQUFBQT09In0="
+    },
+    {
+      "title": "Backend Developer",
+      "company_name": "Comviva",
+      "location": "Bangarapet, Karnataka",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=backend+developer+jobs+India&htidocid=xmnP5TsUjVwItMXvAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLMQ7CMAwAQLH2CUyeK9QgJBbYSiUGHlG5wUpLUzuKragjOyM_5CXActtVr01Vt-hn4jt0VChKogyf5xseMoASZj-CMFxFQqTteTRLenJONTZBDW3yjZfFCdMgq_sl_dPriJlSRKP-cNyvTeJQw0WWMhWEiaFFDpgxke3ghpnRcMYvAXvUWY4AAAA&shmds=v1_ARwrE21T7q38mVlMXxHg4pBRNHm0sM8DbBMjz6sosUIo7WaWEw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=backend+developer+jobs+India&htidocid=xmnP5TsUjVwItMXvAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac43f7760cbef972051ae3c/images/XPA74Ao9CY9PAQIF7syDGgbtjjfTNlzYJZaAopylUbA.jpeg",
+      "extensions": [
+        "5 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/backend-developer-at-comviva-4474141467",
+      "job_title": "Backend Developer",
+      "description": "Key Responsibilities\n\nDesign, develop, and maintain microservices-based applications using Java and Spring Boot. Build secure, scalable, and high-performance REST APIs. Develop reactive services using Spring WebFlux. Implement secure coding practices, API security, and access controls. Perform unit testing, TDD, code reviews, and quality assurance activities. Troubleshoot and resolve issues across development, testing, and production environments. Collaborate with Product, QA, DevOps, Security, and Architecture teams. Participate in solution design, architecture discussions, and technical decision-making. Support frontend integration and continuous improvement initiatives. \n\nMandatory Skills\n\nJava (OpenJDK 21/Java 17+) Spring Boot Spring WebFlux / Reactive Programming Microservices Architecture RESTful API Development Spring Security OAuth2, JWT, RBAC TDD, JUnit, Mockito OWASP Top 10, API Security, Input Validation, Data Masking SAST, DAST, SCA Oracle/PostgreSQL MongoDB or NoSQL Databases Git, Docker CI/CD (GitLab, Jenkins, or equivalent) Agile/Scrum Methodologies \n\nDesirable Skills\n\nFinancial Services or Fintech Domain Knowledge Authentication, KYC, Payments, Transactions, and Statements Workflows Angular, TypeScript, RxJS, HTML5, CSS3 Angular Material, Tailwind CSS, Bootstrap Kubernetes, Istio, API Gateway, Service Discovery Kafka or RabbitMQ AWS, Azure, or GCP SonarQube, Snyk, Fortify, Checkmarx Frontend Security (CORS, XSS, CSP) Cloud-Native and DevSecOps Practices",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/backend-developer-at-comviva-4474141467?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/backend-developer-comviva-bangarapet--techmap_in_4474141467?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Olibr",
+          "link": "https://olibr.com/jobs/backend-developer-comviva-5gjqq?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Broxer",
+          "link": "https://broxer.com/jobs/backend-developer-swcnb8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCYWNrZW5kIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkNvbXZpdmEiLCJodGlkb2NpZCI6InhtblA1VHNValZ3SXRNWHZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzE5RE1VTlBlR2cwVUhGeFZrczJSV0pCWkVKS2FreDFVbmhqWTAwM1JYazNiREo0WWpkTU1FeExaSE5XTTBoYWQyOXNhbFkxWlVSTmRGTTRjMGw1Y2xaelRHWmxibGhoUm5GeldGWk1aVWRJWTJveVFqUndVMDFoYm1Kc1MxTlVjR0k1YWtkNGJGbEtZMlJVZW5kcE5HOTFMVkp5U2xSSVpYQnVUMWxSWldoU2VVZDNORWNTRjJSNlgwVmhka1JhUldGaGFuRjBjMUEyVG1KbGJVRkpHaUpCUkhOeU9XWlNjbVJRVUdWRk56Slhia3cyTlRaVWRETk5OSEl0VVhWcFJETm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJ4bW5QNVRzVWpWd0l0TVh2QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Java Backend Developer ( 6+ Years ) (India)",
+      "company_name": "MindBrain",
+      "location": "India",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=backend+developer+jobs+India&htidocid=TlpLVhfOu33Bl4TqAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x2NMQrCQBBFsU1paTVlVMiKoIV2QRAVKyurMEmGZHWdWXaWkNI72Hs4T2IUPq948PjJe5ScLsRWAhyxQ8ixuhPXsKOOnHgKkMJ6DlfCoDCF9MC1xSl8ni-4SQk6-KoFYdiLNI4m2zZGrxtjVF3WaMRoq6yShxGmUnozRPpDoS0G8g4jFcvVos88N7Px2XKdB7QMw_5XX8v7zWKhAAAA&shmds=v1_ARwrE211rL98K_yruC3cMT2ambGx2z-1tDTf7VePiIlbIulGYQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=backend+developer+jobs+India&htidocid=TlpLVhfOu33Bl4TqAAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/senior-java-backend-developer-6-years-india/mindbrain/19677241",
+      "job_title": "Senior Java Backend Developer ( 6+ Years ) (India)",
+      "description": "Java Backend Developer  Contract Position\n\nExperience: 6+ Years\n\nEmployment Type: Contract\n\nWork Mode: Remote\n\nRole Overview\n\nWe are looking for an experienced Java Backend Developer with 6+ years of hands-on experience in developing scalable, high-performance backend applications and microservices. \n\nKey Responsibilities\n\n- Design, develop, and maintain robust backend applications using Java .\n- Develop scalable REST APIs and Microservices .\n- Work with Spring Boot and related Java frameworks.\n- Design and optimize database queries and backend services.\n- Integrate applications with external systems and APIs.\n- Write clean, maintainable, and productive code.\n- Troubleshoot technical issues and optimize application performance.\n- Collaborate with cross-functional teams in an Agile/Scrum environment.\n\nRequired Skills \n- Java  6+ Years\n- Spring Boot\n- Microservices\n- REST APIs\n- SQL / Relational Databases\n- Hibernate / JPA\n- Git\n- Agile/Scrum\n- Good understanding of backend architecture and application development.\n\nLocation: Remote \n\nPosition: Contract\n\nExperience: 6+ Years .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/senior-java-backend-developer-6-years-india/mindbrain/19677241?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Olibr",
+          "link": "https://olibr.com/jobs/senior-backend-developer-rust-developer-9-yrs-adv-techminds-9ejvx?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/5708630971599814656?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/340025842/senior-java-backend-developer-6-years-india?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgSmF2YSBCYWNrZW5kIERldmVsb3BlciAoIDYrIFllYXJzICkgKEluZGlhKSIsImNvbXBhbnlfbmFtZSI6Ik1pbmRCcmFpbiIsImh0aWRvY2lkIjoiVGxwTFZoZk91MzNCbDRUcUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTM1ZXZDFWVVVuQjVURjlrYTAxalVTMW1ZM0IyUTFKNlpFNTRXbmx0UTFSa1FrNUxUVTVhZVRGdVpHUjZNbG94VUc1RVNsQlRXRXhYTjJsTGFHMVpVM2RwY0dKbVRsVmlSV2xIV1VKVk5IRkNZMkoxV1hSSVMwcFZWRWhTYW1sallrdDVkMVp2WW00emFGRkhURTFFWWpoc1UycHdhVXhqVDNsbGRYVllOMU4xWVVWQ1ZrUVNGMlI2WDBWaGRrUmFSV0ZoYW5GMGMxQTJUbUpsYlVGSkdpSkJSSE55T1daU1pqTTJVM1V4TFZWTmJtUXllSGRIYmw5UVgzaEdVVGxaZUhSQiIsImZjdiI6IjMiLCJmY19pZCI6IlRscExWaGZPdTMzQmw0VHFBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Backend Developer (Kerala)",
+      "company_name": "Data Eminence",
+      "location": "India",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=backend+developer+jobs+India&htidocid=zmevqMOh5tWI1UgcAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLMQ7CMAwAQLH2AQxMHoEhQSAW2FARQjyiclMrTUntKI5QR2ZWfshLgOW2q16zandCdyfuoKYHRUmUYXmjjBFX8Hm-YZAWlDC7HoThIuIjLY59KUkP1qpG47VgCc44Ga0wtTLZX9I_jfaYKUUs1Gz3m8kk9ut5jQXhPAYmdgSB4cpdwC9YhoD3jQAAAA&shmds=v1_ARwrE23PM6E4fwN59D3A56asq95nBZIy9uzSl7lZc_3Fcxjz1Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=backend+developer+jobs+India&htidocid=zmevqMOh5tWI1UgcAAAAAA%3D%3D",
+      "extensions": [
+        "7 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/backend-developer-kerala/data-eminence/19629942",
+      "job_title": "Backend Developer (Kerala)",
+      "description": "Join Data Eminence as a remote Backend Developer and help build secure, scalable, and reliable backend systems that power contemporary web applications. You will work on server-side logic, APIs, databases, authentication, integrations, and application performance.\n\nThe ideal candidate has a strong foundation in backend development and enjoys solving technical problems. This role provides hands-on experience with real-world APIs, database systems, backend architecture, testing, deployment, and collaboration with frontend and product teams.\n\nFull Description\n\nAt Data Eminence, we build technology solutions that require dependable backend infrastructure and well-designed APIs. As a Backend Developer, you will work closely with frontend developers, product managers, and other team members to design, develop, test, and maintain backend services and applications.\n\nYour responsibilities will include:\n\n- Develop and maintain scalable server-side applications and services.\n- Design, build, and maintain RESTful APIs.\n- Implement business logic and backend functionality based on product requirements.\n- Work with relational and NoSQL databases.\n- Design database schemas and write efficient queries.\n- Implement authentication, authorization, and access-control mechanisms.\n- Integrate third-party APIs and external services.\n- Develop CRUD operations and data-processing workflows.\n- Validate API requests and handle errors securely and efficiently.\n- Write unit and integration tests for backend functionality.\n- Debug and troubleshoot application and API issues.\n- Optimize backend performance, database queries, and API response times.\n- Use Git and GitHub for version control and collaborative development.\n- Participate in code reviews and follow software development best practices.\n- Assist with deployment, monitoring, and production troubleshooting.\n- Maintain technical documentation for APIs, services, and backend processes.\n- Collaborate with frontend developers to ensure smooth API integration.\n- Stay updated with modern backend technologies and development practices.\n\nWe believe in learning by doing. You will gain practical experience with Node.js, Express.js, REST APIs, TypeScript/JavaScript, databases, SQL, Prisma/ORMs, authentication, Git/GitHub, Docker, cloud deployment, API testing tools, and AI-assisted development tools.\n\nThis is a hands-on backend development role where you will work on real APIs and application functionality, troubleshoot technical issues, optimize systems, and develop the skills required to build production-ready backend services.\n\nRequirements\n\n- Bachelor's degree in Computer Science, Information Technology, Engineering, or a related field.\n- 02 years of experience in backend development or relevant projects.\n- Strong understanding of backend programming concepts.\n- Familiarity with Node.js, Express.js, Python, Java, or another backend technology.\n- Understanding of RESTful APIs and HTTP methods.\n- Basic knowledge of SQL and relational databases.\n- Familiarity with MongoDB or other NoSQL databases is a plus.\n- Understanding of authentication and authorization concepts.\n- Familiarity with Git and GitHub.\n- Basic understanding of API testing using tools such as Postman.\n- Knowledge of Prisma or another ORM is a plus.\n- Familiarity with Docker and cloud deployment is a plus.\n- Strong problem-solving and debugging skills.\n- Good communication and teamwork abilities.\n- Ability to work independently and collaborate effectively in a remote environment.\n\nBenefits\n\n- Competitive salary based on skills and experience.\n- Fully remote work flexibility.\n- Paid time off and holidays.\n- Professional development and learning opportunities.\n- Company-provided equipment where applicable.\n- Exposure to modern backend and AI-powered development tools.\n- Opportunities to work on real-world software applications and APIs.\n- Supportive and collaborative remote work environment. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/backend-developer-kerala/data-eminence/19629942?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Olibr",
+          "link": "https://olibr.com/jobs/backend-developer-kerala-data-eminence-haayj?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/702988425111797760?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/337506622/backend-developer-kerala?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "PrepIntro",
+          "link": "https://www.prepintro.com/job/backend-developer-kerala-data-eminence/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCYWNrZW5kIERldmVsb3BlciAoS2VyYWxhKSIsImNvbXBhbnlfbmFtZSI6IkRhdGEgRW1pbmVuY2UiLCJodGlkb2NpZCI6InptZXZxTU9oNXRXSTFVZ2NBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEdsTWVUQktabXRVWVZsSVdVdG5kMHhNVjE5bmRWZGtabkoxUzBGSGMxOUxZVkpmY21KUGJFVkhjRUZvYW5GWFNYZHZZVUV0UTFCUU5uSXRZMkZpVHpOcVRVeFFUVVZhWm5SeFRqUTVjSFptWldaZmEwa3hkVWx4UlVGcGVXUm9lbmxoWTNSR2JEQmFZelpYV2poQ1ZEWXdkVE5TV2xCRGJrbFZRV2RpY0c5eWJYUllPRlFTRjJSNlgwVmhka1JhUldGaGFuRjBjMUEyVG1KbGJVRkpHaUpCUkhOeU9XWlRTRFV6UVdNeVoxUnFielpLVkdKaFdHbGxXVVJ0VkZweU1YZDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJ6bWV2cU1PaDV0V0kxVWdjQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Junior Full-Stack Developer – Web, Mobile & IoT Applications",
+      "company_name": "Plasti Surge Industries Pvt Ltd",
+      "location": "Amravati, Maharashtra",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=backend+developer+jobs+India&htidocid=dZAehaX-7z2iVADWAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x2OQUoDQRBFcZsjuPqrLERngiCIrgKiRBIIRMgy1HSKmdZKV9NVM2TpHbyYZ_Aktm7-6v3Hm31fzPavY4pa8DyK3OycwgeeeGLRzAU_n1_Yc3eNjXZRGHOs9A3LnCUG8qjJ_pF37WBMJQzQhBfVXvjycXDP9tC2ZtL05pUPTdBTq4k7Pbf1ZH9zsIEKZyHnw-3d4tzk1F_db4XMI3Zj6RmrdBzNS2TDdnKs_YiYsDwVmqq11lFVkA1e6Be0D0hG0wAAAA&shmds=v1_ARwrE21YDxF5_Q_lvRW4IMa2upJqXieiX9_wMi-2QImMl4fg6Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=backend+developer+jobs+India&htidocid=dZAehaX-7z2iVADWAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac43f7760cbef972051ae3c/images/NZp7AZ6fEmIvRVcKZL3aSY2Ge0UZONyVkicpZRimDvA.jpeg",
+      "extensions": [
+        "15 hours ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/junior-full-stack-developer-%E2%80%93-web-mobile-iot-applications-at-plasti-surge-industries-pvt-ltd-4473601312",
+      "job_title": "Junior Full-Stack Developer – Web, Mobile & IoT Applications",
+      "description": "📢 We’re Hiring: Junior Full-Stack Developer – Web, Mobile & IoT Applications\n\n\n\n\n📍 Location: Amravati, Maharashtra\n\n💼 Experience: 1–2 years\n\n🏢 Employment: Full-time, on-site\n\n\n\n\nWe are looking for a hands-on Junior Full-Stack Developer to build digital applications supporting our environmental-monitoring and technology products.\n\n\n\n\nThe selected candidate will work on real-world product applications, including live monitoring dashboards, mobile applications, product interfaces, websites and internal digital tools.\n\n\n\n\nKey responsibilities:\n\n\n\n\n• Develop responsive web applications and data dashboards\n\n• Build interfaces for viewing live and historical monitoring data\n\n• Develop mobile applications supporting connected products and field users\n\n• Build and integrate APIs, databases and backend services\n\n• Integrate applications with instruments and connected devices through available communication protocols\n\n• Develop features such as user authentication, role-based access and device management\n\n• Build data visualisations, reports, alerts and downloadable summaries\n\n• Support location-based information, field-data collection and device status monitoring\n\n• Develop and maintain company and product websites\n\n• Test, debug, deploy and maintain web and mobile applications\n\n• Troubleshoot application, database and integration issues\n\n• Work closely with electronics, firmware, product-development and R&D teams\n\n• Maintain clean code, technical documentation and version control\n\n• Implement appropriate application-security and data-protection practices\n\n\n\n\nRequired profile:\n\n\n\n\n• Bachelor’s degree in Computer Science, Information Technology, Software Engineering, Electronics or a related field\n\n• 1–2 years of hands-on software-development experience\n\n• Good understanding of frontend and backend development\n\n• Experience developing responsive web applications\n\n• Working knowledge of REST APIs, databases and user authentication\n\n• Familiarity with Git and structured software-development practices\n\n• Ability to independently understand requirements, build features and troubleshoot problems\n\n• Strong ownership, logical thinking and willingness to learn\n\n\n\n\nPreferred technical exposure:\n\n\n\n\n• React, Next.js, Angular or Vue.js\n\n• Node.js, Python, FastAPI, Django or similar backend technologies\n\n• MySQL, PostgreSQL, MongoDB or other databases\n\n• Flutter, React Native, Android or cross-platform mobile development\n\n• Charts, maps, dashboards and data-visualisation libraries\n\n• Cloud deployment and basic server management\n\n• Bluetooth, Wi-Fi, IoT or device-to-application integration\n\n• Real-time data handling, notifications and reporting systems\n\n• AI-assisted development tools and modern development workflows\n\n\n\n\nCandidates who have independently built and deployed applications, dashboards, mobile apps or connected-device projects will be preferred. Personal projects, freelance work, internships and strong GitHub portfolios may also be considered as relevant evidence of ability.\n\n\n\n\nThis is a full-time, on-site position in Amravati. Candidates should apply only if they are currently based in Amravati or are genuinely willing to relocate.\n\n\n\n\nInterested candidates may send:\n\n\n\n\n1. Updated CV\n\n2. GitHub, portfolio or deployed-project links\n\n3. Brief description of applications personally developed\n\n4. Current location, notice period and compensation expectations\n\n\n\n\nApplications may be sent to keshav@plastisurge.com with the subject: “Application – Junior Full-Stack Developer”.\n\n\n\n\n#Hiring #FullStackDeveloper #JuniorDeveloper #WebDevelopment #MobileAppDevelopment #IoT #DashboardDevelopment #ReactJS #Python #Flutter #SoftwareDeveloper #AmravatiJobs",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/junior-full-stack-developer-%E2%80%93-web-mobile-iot-applications-at-plasti-surge-industries-pvt-ltd-4473601312?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/junior-full-stack-developer-web-mobile-iot-applications-plasti-surge-industries-pvt-ltd-amravati--fj-2397781656?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-4112-11cc01b7c65229293f752723db21ebf9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRnVsbC1TdGFjayBEZXZlbG9wZXIg4oCTIFdlYiwgTW9iaWxlIFx1MDAyNiBJb1QgQXBwbGljYXRpb25zIiwiY29tcGFueV9uYW1lIjoiUGxhc3RpIFN1cmdlIEluZHVzdHJpZXMgUHZ0IEx0ZCIsImh0aWRvY2lkIjoiZFpBZWhhWC03ejJpVkFEV0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbGg2TjNWb1ptWlNaMnRTVVhnd2NXRlFlRXR6ZFY4ekxUSkZSRzlDVDBGTGNtUlFZVTB4TFZkR2NERlVORGR6U2pabVJsSldVVXBCTW05WFNuQlRWamRyTkV4eWEwSlpRVWc1UW5vNGF6TkVVR3N6VG5JM1JHZG1lSEJRYUVGUFNUaGxZMlZmVDI4MlpFWk1iVEZSVG5kdmNsZGtZVXB3WVRjeE0yMUxialpNWkRjM2VFY1NGMlI2WDBWaGRrUmFSV0ZoYW5GMGMxQTJUbUpsYlVGSkdpSkJSSE55T1daUk4yaE9VR1JTZGs5aFpUTlZXazVZYUVoNlpVWkJURUZLTVVKMyIsImZjdiI6IjMiLCJmY19pZCI6ImRaQWVoYVgtN3oyaVZBRFdBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Node.js Backend Developer",
+      "company_name": "Zemoso Technologies",
+      "location": "New Delhi, Delhi",
+      "via": "Iitjobs",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=backend+developer+jobs+India&htidocid=328WFVBda83lL2weAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_yWNsQrCMBRFce0nOL1NEEmk4KKbCG6dnFxKml6S1jQv9AXt6D-4-Xl-iRWXc6bDKd6Loqy4heqFjsbeEFs64Y7ACSN9ni_quSGBGa0njnRmdgHLg885yV5rkaCcZJM7qywPmiManvQcyQ-1eDMiBZNRl7vtpFJ069UVAwvTBdZHDuw6CHWRKjzmd_Dd5q8vRFocg50AAAA&shmds=v1_ARwrE22OBlJWxhPN8Cq5_BfyvxpoYYhcGgLsztvDuJXfdVJxrA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=backend+developer+jobs+India&htidocid=328WFVBda83lL2weAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIABgAOAMBIgACEQEDEQH_xAAZAAEBAQEBAQAAAAAAAAAAAAAABwUBBgP_xAAmEAACAQQCAgIBBQAAAAAAAAABAgMABAUREhMhMQZxUSIyQlKB_8QAFgEBAQEAAAAAAAAAAAAAAAAAAAUE_8QAHhEBAAAFBQAAAAAAAAAAAAAAAAECAxESBDFhgfH_2gAMAwEAAhEDEQA_AKjlvlVrj7lrdYmnkTw_FgAp_G_zWjiMtb5a3MtvsFTp0b2prxV802GyN8s8cp73Zo2DkKQTvf36-vNa_wAFtLlBc3lwZOM2gpfe217NZJKs8amMfFWvpaUmnzhxaN9-mzYfI8Hkrw2ePy9jc3QBJhhnVnGvfgHfitSpdJc5PJQZzJWuLy1tmp4jFZI9jJH0WquNqrkAdjjk3gg74j-O6-uNxeQu2x1s15mJMZLNclwq3VsYl6k4oWkbs1zBIJPskDxWtKUylSeCz-UQ4eGS3OZa6usLC972SSFxIJUDhA3hJOsuABo_75rl_Hkhjbl7MZw42O-L460lS8MtwnSAyO6ntjBkLcGfxv2NaoKzSpui5xvk8TdWWjyByUbfqeRrRMfwHJSd9Zb9w_vz0fVKCjMiuNMob7FdA16pSg7SlKBSlKBSlKD_2Q.jpeg",
+      "extensions": [
+        "9 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.iitjobs.com/job/nodejs-backend-developer-india-568103",
+      "job_title": "Node.js Backend Developer",
+      "description": "You will build backend services and software products from scratch using Node.js and JavaScript.\n\nThis role is on-site.\n\nResponsibilitiesBuild backend services and software experiences for clients using design thinking, lean, and agile methodologies.Collaborate with cross-functional teams to develop customer-facing applications.Mentor and support the growth of junior developers.Solve complex server-side problems and communicate effectively with stakeholders.Required Skills4+ years of hands-on software development experience.Strong proficiency in Node.js and JavaScript.Strong server-side development experience.Ability to follow software engineering best practices.Strong problem-solving and communication skills.Any graduate degree.",
+      "apply_options": [
+        {
+          "title": "Iitjobs",
+          "link": "https://www.iitjobs.com/job/nodejs-backend-developer-india-568103?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NaukriSunshine",
+          "link": "https://naukrisunshine.com/job/nodejs-backend-developer-delhi-ncr-15252?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents Jobs",
+          "link": "https://talentsjobs.in/node-js-backend-developer-ar-robotics-india-pvt-ltd-jaipur-1-to-3-years-203465?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJOb2RlLmpzIEJhY2tlbmQgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiWmVtb3NvIFRlY2hub2xvZ2llcyIsImh0aWRvY2lkIjoiMzI4V0ZWQmRhODNsTDJ3ZUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURVY0ZGxWMmJGUnhVVVprUlV4VlJFUm9lRXgzTTJOb2FHcEtVMG81TFRKWExVSlRWMXBYWWpKSGNIbFRVRVJOTFZaVU1qTXdjV3RNVUZCbE1YZFJTRGQ1Y2tJMFUyMUpjR1p1TVhkVGRHWnRSVGxIWW1SalZXUmpVV3ByTWt3MFMzQTVkekk0WkVsV1F6bEdUVmRPZW5WRGRVNHpXRTVSWjNKblVWZEdhMUU1VDFoNmIwY1NGMlI2WDBWaGRrUmFSV0ZoYW5GMGMxQTJUbUpsYlVGSkdpSkJSSE55T1daVE1XMXBVMDlwYWtkUWQzTmpVMFZDUmpKRVR6TlBUWGxuVDB0UiIsImZjdiI6IjMiLCJmY19pZCI6IjMyOFdGVkJkYTgzbEwyd2VBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Java Backend Developer",
+      "company_name": "Capgemini Engineering",
+      "location": "Bengaluru, Karnataka",
+      "via": "Capgemini",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=backend+developer+jobs+India&htidocid=MTPSRMXYSzOzHLQBAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLMQ7CMAwAQLH2CUyeETQIiQW2FoQEj6jcYLmhqR0ladWRPzDzOV4CLLdd8V4U5ooTQoW2J7nDiSbyGijC5_mCh7aQCKPtQAUuquxpeexyDulgTEq-5JQxO1taHYwKtTqbX0p_mtRhpOAxU7Pbb-cyCK82NQamwYmDs7ATouiEwQlUJIx-jOMabhgFM_b4BZhQTCCgAAAA&shmds=v1_ARwrE23LNNrWjPMBwA1BEMe9d_PACyGdDY2J1eU-VZwWIdxJ8g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=backend+developer+jobs+India&htidocid=MTPSRMXYSzOzHLQBAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAaVBMVEX___8AWKoAUKcAVqkATabM1ef4-fz09vrb4e7h5vH8_P2ZrNEAUqi4xN4ARqPq7fVHcbWouNcAL5x2ksQAQ6JsisA5abGMosxkhb4AEZVZe7nCy-IAJZnV3OuRp84vYa4APaCDnMkANZ6EQRJkAAABWUlEQVRIie2S0XKEIAxFLyICKgKLopUq6v9_ZJHuy3Y67nM7nodMJuZmzA3Azc3NzT9npEVz9X3hz6TKsZ5alRNnwD-qC-EcnsnnOUEVLe2mlMjPJBqf87hOQagalUS9VGuan4qABrM5wdBRQmjnAGvyNNXOEN4XDKtpuI7G1nTsg35IzAu8LDYNmn6vJEnnV1dhnPIeLVL7QwcXCIx2gTk-G7U204rI4K3dLVrwPulIacuewfpTaBQKLXuw0uzoxBC8VNGxfRIzDoZykMrhgO6Srmgi6VTaUQJNF8SDKc9jYL5p2b4J7gsrvAO10yr7EjKKTcAXtPUqbud---H8KDq_UDORIRllXbQDjdzI-qEwGBBjU30mLILPdGBbI7MvQsnsHkT2SZjT_-_7sNfD1NkO48JrGUs8L1LC_eh_iz5SCGmtq-fwK-E8N_WXD_AC_r7l5ubm5q_wBWeUExct_wZWAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.capgemini.com/in-en/jobs/544919-en_GB+sap_btp",
+      "job_title": "Java Backend Developer",
+      "description": "Job DescriptionThis role involves the development and application of engineering practice and knowledge in the following technologies: Standards and protocols, application software and embedded software for wireless and satellite networks, fixed networks and enterprise networks; connected devices (IOT and device engineering), connected applications (5G/ edge, B2X apps); and Telco Cloud, Automation and Edge Compute platforms. This role also involves the integration of network systems and their operations, related to the above technologies.Job Description - Grade SpecificFocus on Connectivity and Network Engineering. Develops competency in own area of expertise. Shares expertise and provides guidance and support to others. Interprets clients needs. Completes own role independently or with minimum supervision. Identifies problems and relevant issues in straight forward situations and generates solutions. Contributes in teamwork and interacts with customers.",
+      "apply_options": [
+        {
+          "title": "Capgemini",
+          "link": "https://www.capgemini.com/in-en/jobs/544919-en_GB+sap_btp?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "ZiniosEdge",
+          "link": "https://www.ziniosedge.com/jobs/java-backend-developer-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/java-backend-developer-bosch-JV_IC2940587_KO0,22_KE23,28.htm?jl=1010210340687&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Cutshort",
+          "link": "https://cutshort.io/job/Java-Backend-Developer-Bengaluru-Bangalore-Multi-Recruit-yZc9KkEE?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/java-backend-developer-at-tata-consultancy-services-4462939881?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/java-backend-developer-capco-bengaluru--ss-in-1lnxjl2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/IFSKh0kk4g7I0rnPaPAhZoo2ZS0HIdkHla9mAvitZZTf1SiIo1dJ5g?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/java-backend-developer-zilo-ai-bengaluru-bangalore-64659978?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKYXZhIEJhY2tlbmQgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiQ2FwZ2VtaW5pIEVuZ2luZWVyaW5nIiwiaHRpZG9jaWQiOiJNVFBTUk1YWVN6T3pITFFCQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRFczBhbVJRZW0wNU9GcHhRbVF3VW1kNk1HNDNiMHBqTUdObWR6VkdVa1ptTVRoWFUxYzBVVzFrZW10YVZVMWlVRkZMTXpoaE9FeHFWV2xoUVhKdVVEQXRYMlZQY1c1UVZTMVZjREUzUkVWNVRIRktNMlZ4V2xkcU0xTXlTQzA1YUhCdFpXVnpkR2xqTm0xNGNVVjRZVVYxUjJkTFZsOXJXSGxyV0dWMGJFSkZjRVpTVVVnU0YyUjZYMFZoZGtSYVJXRmhhbkYwYzFBMlRtSmxiVUZKR2lKQlJITnlPV1pUU1ZCS1YybDVORUY2VTB0cFVHdERTVEJyVUhaVFkwZFFNbEJuIiwiZmN2IjoiMyIsImZjX2lkIjoiTVRQU1JNWFlTek96SExRQkFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVzd0RDb3dEUVVwcFZEUjBURE5CYzBweloyVlZaRjl0VUV4MGJEQkpabWh6ZWxkNlNsaGtUVTlOUTJSVFIyNXRTMk5WVFdwUlJHTXllazVCUXpoTFNVMHdPVlpKY2kxMWNFODRiVXgwUkhoT1QzQXlSblpTVDA0M2FYQTBOVXBJTWs4emNtMDVTVk52Um1GWVpsVlFjVUV4VkRORFgxY3dZbnBNTTNvNGFrdHljbWt0VVVWeGIwMWZibXRMWVZSb2EzWjBRWGhSU3pCSVpXWllORTB5YUhaVFUwUjFOV0YzWlhsR2NIWlZUVlV4Y0VsYWVHdDVRVXRhUjBSSFVtaEVTa1l3ZGxRME56WkhNV1JXVjB0amFVaE1kbkJVUTIwMFozQk1WVUphYzJOSWNtMVVkR1J0U2xaWFpWOURaVWRaTjNNeGNHUmpVR3RXZEc1a2VHSkxja2RNTTA1ZlUwWTFXV1pJWTBWQ2MyRTNabGt6YTBsSGNYZDVYM0J5T0VOd1FuTTFRMU5uTjFaNWQwUnRPWGRGVVhGcE5WZFlOMEZ0VkhWUFJpMVVlR1pVYkRCS2FsUkVVV3h4TW5CMGJtZzBaVXR6UVhaSE9IUTFkR3RpYWtKdk1IbFFkelZtZUZNNVFWTTVaalJVTFRkRlFrNHdTVTVEUlZCVk9IWndTVVpZZUhkRWQxWXRaVlZ1ZEhkMVpEVjRhamt3RWhka2VsOUZZWFpFV2tWaFlXcHhkSE5RTms1aVpXMUJTUm9pUVVSemNqbG1WSGRLZVZaS2FGRlRhRFpCWDNONlp6QlVPRmRZY0RndGFHaDFRUSIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=India&next_page_token=eyJmYyI6IkVzd0RDb3dEUVVwcFZEUjBURE5CYzBweloyVlZaRjl0VUV4MGJEQkpabWh6ZWxkNlNsaGtUVTlOUTJSVFIyNXRTMk5WVFdwUlJHTXllazVCUXpoTFNVMHdPVlpKY2kxMWNFODRiVXgwUkhoT1QzQXlSblpTVDA0M2FYQTBOVXBJTWs4emNtMDVTVk52Um1GWVpsVlFjVUV4VkRORFgxY3dZbnBNTTNvNGFrdHljbWt0VVVWeGIwMWZibXRMWVZSb2EzWjBRWGhSU3pCSVpXWllORTB5YUhaVFUwUjFOV0YzWlhsR2NIWlZUVlV4Y0VsYWVHdDVRVXRhUjBSSFVtaEVTa1l3ZGxRME56WkhNV1JXVjB0amFVaE1kbkJVUTIwMFozQk1WVUphYzJOSWNtMVVkR1J0U2xaWFpWOURaVWRaTjNNeGNHUmpVR3RXZEc1a2VHSkxja2RNTTA1ZlUwWTFXV1pJWTBWQ2MyRTNabGt6YTBsSGNYZDVYM0J5T0VOd1FuTTFRMU5uTjFaNWQwUnRPWGRGVVhGcE5WZFlOMEZ0VkhWUFJpMVVlR1pVYkRCS2FsUkVVV3h4TW5CMGJtZzBaVXR6UVhaSE9IUTFkR3RpYWtKdk1IbFFkelZtZUZNNVFWTTVaalJVTFRkRlFrNHdTVTVEUlZCVk9IWndTVVpZZUhkRWQxWXRaVlZ1ZEhkMVpEVjRhamt3RWhka2VsOUZZWFpFV2tWaFlXcHhkSE5RTms1aVpXMUJTUm9pUVVSemNqbG1WSGRLZVZaS2FGRlRhRFpCWDNONlp6QlVPRmRZY0RndGFHaDFRUSIsImZjdiI6IjMifQ%3D%3D&q=backend+developer+jobs+India"
+  }
+}

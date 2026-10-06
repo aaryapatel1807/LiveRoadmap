@@ -1,0 +1,484 @@
+{
+  "search_metadata": {
+    "id": "6ac43f77a20802f50dcf95cf",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Grxtg9vuk4O9lNJ2Xwtq7x5dvrPxt5sbQtYjeHBomLg/6ac43f77a20802f50dcf95cf.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Grxtg9vuk4O9lNJ2Xwtq7x5dvrPxt5sbQtYjeHBomLg/6ac43f77a20802f50dcf95cf.md",
+    "created_at": "2026-10-06 00:23:19 UTC",
+    "processed_at": "2026-10-06 00:23:19 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=React+tutorial+for+beginners",
+    "raw_html_file": "https://serpapi.com/searches/Grxtg9vuk4O9lNJ2Xwtq7x5dvrPxt5sbQtYjeHBomLg/6ac43f77a20802f50dcf95cf.html",
+    "total_time_taken": 2.13
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "React tutorial for beginners"
+  },
+  "search_information": {
+    "total_results": 11404437,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "React Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=SqcY0GlETPk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=SqcY0GlETPk",
+      "video_id": "SqcY0GlETPk",
+      "channel": {
+        "name": "Programming with Mosh",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 6189995,
+      "length": "1:20:04",
+      "description": "Master React 18 with TypeScript! ⚛️ Build amazing front-end apps with this beginner-friendly tutorial. Want the ultimate React ...",
+      "extensions": [
+        "Beginner"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/SqcY0GlETPk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChbr7yRBFhR7K-rqbSJIbfKCCnzQ",
+        "rich": "https://i.ytimg.com/an_webp/SqcY0GlETPk/mqdefault_6s.webp?du=3000&sqp=CJb7kNYG&rs=AOn4CLCVaNjdyPKd-3J2VkcAU22t1vOEoA"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "React tutorial for beginners ⚛️",
+      "link": "https://www.youtube.com/watch?v=hn80mWvP-9g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=hn80mWvP-9g",
+      "video_id": "hn80mWvP-9g",
+      "channel": {
+        "name": "Bro Code",
+        "link": "https://www.youtube.com/@BroCodez",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mPFVsxROj1dOtTWc9iNBwDYV4z42Q8LPokBSewiW9pCSg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 643313,
+      "length": "20:27",
+      "description": "00:00:00 introduction 00:01:41 installation 00:02:48 new project 00:05:00 how to restart dev server 00:05:36 project folder ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/hn80mWvP-9g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCZT5kxjEVG1uxmhot0hT_4KZ9tA",
+        "rich": "https://i.ytimg.com/an_webp/hn80mWvP-9g/mqdefault_6s.webp?du=3000&sqp=CJD5kNYG&rs=AOn4CLBIImfUZlJxIYOStehATPQoYs0keg"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "React JS Explained In 10 Minutes",
+      "link": "https://www.youtube.com/watch?v=s2skans2dP4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=s2skans2dP4",
+      "video_id": "s2skans2dP4",
+      "channel": {
+        "name": "Dennis Ivy",
+        "link": "https://www.youtube.com/@DennisIvy",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lG_SmL2Lu2Y6RK47pciKeQ_h3KbNANRuicbm-imxKYl5c=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 897378,
+      "length": "10:00",
+      "description": "A list of the core concepts every React developer should have a solid grasp on. React Course: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/s2skans2dP4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxoYMOwhTpXgXkeuZWkatGdGgYlw",
+        "rich": "https://i.ytimg.com/an_webp/s2skans2dP4/mqdefault_6s.webp?du=3000&sqp=CKTVkNYG&rs=AOn4CLB1GFymKmVOtq5--4yRo_B7iNPoEw"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "React Tutorial Full Course - Beginner to Pro (React 19, 2025)",
+      "link": "https://www.youtube.com/watch?v=TtPXvEcE11E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=TtPXvEcE11E",
+      "video_id": "TtPXvEcE11E",
+      "channel": {
+        "name": "SuperSimpleDev",
+        "link": "https://www.youtube.com/@SuperSimpleDev",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_laf9dDyNATE1_RdVUKthwnwT9TSm9N0my0jL2H8gCvjw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1500484,
+      "length": "11:32:04",
+      "description": "In this React tutorial and React full course, build websites and projects with React. React Premium Course: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/TtPXvEcE11E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjW8efKq7IYnmNcMTQcsYwCiY88A",
+        "rich": "https://i.ytimg.com/an_webp/TtPXvEcE11E/mqdefault_6s.webp?du=3000&sqp=CJvukNYG&rs=AOn4CLAFBFvhdh1oapL9ZjJFop7J8QdDJQ"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "React Explained in 8 Minutes",
+      "link": "https://www.youtube.com/watch?v=V1PxgjIhTw0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=V1PxgjIhTw0",
+      "video_id": "V1PxgjIhTw0",
+      "channel": {
+        "name": "Coding2GO",
+        "link": "https://www.youtube.com/@coding2go",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DDvCeQPtcL0K2b96Q8cP0x-d5RWX-tXCUDAxvQUvD0_m26Jt1gyHuXCfxN9Xo1EQVckPF1miNDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5mo ago",
+      "views": 34826,
+      "length": "8:01",
+      "description": "Full React Course → https://coding2go.com/products/react-masterclass In this React tutorial for beginners, you will learn the core ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/V1PxgjIhTw0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXRnr9pcR6qrACwIpx7Lc5KhIfpw",
+        "rich": "https://i.ytimg.com/an_webp/V1PxgjIhTw0/mqdefault_6s.webp?du=3000&sqp=CLn6kNYG&rs=AOn4CLCUUkiJ-_RyazpAVPQEgL3BPTR83w"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "React in 100 Seconds",
+      "link": "https://www.youtube.com/watch?v=Tn6-PIqc4UM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=Tn6-PIqc4UM",
+      "video_id": "Tn6-PIqc4UM",
+      "channel": {
+        "name": "Fireship",
+        "link": "https://www.youtube.com/@Fireship",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/3fPNbkf_xPyCleq77ZhcxyeorY97NtMHVNUbaAON_RBDH9ydL4hJkjxC8x_4mpuopkB8oI7Ct6Y=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 1786355,
+      "length": "2:08",
+      "description": "React is a little JavaScript library with a big influence over the webdev world. Learn the basics of React in 100 Seconds ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Tn6-PIqc4UM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJFW0Yti88CQhc6f9uOl6noNZZag",
+        "rich": "https://i.ytimg.com/an_webp/Tn6-PIqc4UM/mqdefault_6s.webp?du=3000&sqp=CJPskNYG&rs=AOn4CLCBS0x0ezYEfmGipVvccKmf3gLRxg"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Every React Concept Explained in 12 Minutes",
+      "link": "https://www.youtube.com/watch?v=wIyHSOugGGw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=wIyHSOugGGw",
+      "video_id": "wIyHSOugGGw",
+      "channel": {
+        "name": "Code Bootcamp",
+        "link": "https://www.youtube.com/@TheCodeBootcamp",
+        "thumbnail": "https://yt3.ggpht.com/f6JRugd0pxGhDtbPy8TZXpGsTMn3oWX3k2_uxmwNv0TGEAumkezVGISaIQOHTo3cP5iOwXbjfw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1883559,
+      "length": "11:53",
+      "description": "My React course: https://reactbootcamp.dev Chapters 0:00 - Intro 0:11 - Components 0:29 - JSX 1:02 - Curly Braces 1:29 ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/wIyHSOugGGw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-VFABDYtJgeNddxhu-cEuGOcHUQ",
+        "rich": "https://i.ytimg.com/an_webp/wIyHSOugGGw/mqdefault_6s.webp?du=3000&sqp=CPThkNYG&rs=AOn4CLB6Q4oDKSVNuOiGKh270rv0tARpRw"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "React JS - React Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=Ke90Tje7VS0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=Ke90Tje7VS0",
+      "video_id": "Ke90Tje7VS0",
+      "channel": {
+        "name": "Programming with Mosh",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 6432771,
+      "length": "2:25:27",
+      "description": "Watch the latest version: https://youtu.be/SqcY0GlETPk?si=cir-2iVquJ3Eaw8X React JS Tutorial - Get up & running with React JS: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Ke90Tje7VS0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3_J8cSnEXaxGCt_FS2SLg9dc0SQ",
+        "rich": "https://i.ytimg.com/an_webp/Ke90Tje7VS0/mqdefault_6s.webp?du=3000&sqp=CKS7kNYG&rs=AOn4CLDkTCMXfdK8I2Sf-pkmd07Jg4nmtA"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "React JS Tutorial For Beginners 2025",
+      "link": "https://www.youtube.com/watch?v=OA5JAmTcTz4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=OA5JAmTcTz4",
+      "video_id": "OA5JAmTcTz4",
+      "channel": {
+        "name": "LearnWebCode",
+        "link": "https://www.youtube.com/@LearnWebCode",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n6R7J2xrV33Fiqh68fKvoqUgtsPU3SYYeyOFwT6tx3Kg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 44972,
+      "length": "20:44",
+      "description": "Join my full React course here https://learnwebcode.com/react/ Instagram: https://www.instagram.com/javaschiff/ Twitter: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/OA5JAmTcTz4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM4K3pF83mX2R4xwxG2ahCpe6ELw",
+        "rich": "https://i.ytimg.com/an_webp/OA5JAmTcTz4/mqdefault_6s.webp?du=3000&sqp=CMrvkNYG&rs=AOn4CLAye3G6jIw5g-0wUbLasXjxxTB9XQ"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "React Tutorial For Beginners",
+      "link": "https://www.youtube.com/watch?v=xxRAA0v2lvM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=xxRAA0v2lvM",
+      "video_id": "xxRAA0v2lvM",
+      "channel": {
+        "name": "LearnWebCode",
+        "link": "https://www.youtube.com/@LearnWebCode",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n6R7J2xrV33Fiqh68fKvoqUgtsPU3SYYeyOFwT6tx3Kg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 35996,
+      "length": "2:13:38",
+      "description": "Join my full React course here https://learnwebcode.com/react/ CodePen DOM Approach: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/xxRAA0v2lvM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOdY0wJnlArBKQRlsnzE7IuslITw",
+        "rich": "https://i.ytimg.com/an_webp/xxRAA0v2lvM/mqdefault_6s.webp?du=3000&sqp=CKXUkNYG&rs=AOn4CLAX02cof8bkev0UOL4yaYBRTB6Tiw"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Learn React With This ONE Project",
+      "link": "https://www.youtube.com/watch?v=G6D9cBaLViA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=G6D9cBaLViA",
+      "video_id": "G6D9cBaLViA",
+      "channel": {
+        "name": "Tech With Tim",
+        "link": "https://www.youtube.com/@TechWithTim",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k15oXl74WcnpdL-uVBv6IHBgAfXEEnpUiS-IoEyV1auyY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1003133,
+      "length": "1:39:30",
+      "description": "Check out this free resource from HubSpot that contains tons of coding snippets and templates: https://clickhubspot.com/v5ox In ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/G6D9cBaLViA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6NRTbKZpNi3a4csPdmFXw5lfNpA",
+        "rich": "https://i.ytimg.com/an_webp/G6D9cBaLViA/mqdefault_6s.webp?du=3000&sqp=CLDKkNYG&rs=AOn4CLCrNzVMMvHeQbKrKr-Nt5zciA9dmw"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "React JS Tutorial for Beginners (2025) 🔥📝 | Learn Components, JSX, Props, Vite & Virtual DOM Quick",
+      "link": "https://www.youtube.com/watch?v=zUx56TYIE24",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=zUx56TYIE24",
+      "video_id": "zUx56TYIE24",
+      "channel": {
+        "name": "Tech Jashwanth",
+        "link": "https://www.youtube.com/@TechJashwanth",
+        "thumbnail": "https://yt3.ggpht.com/27sar-8LfOdhsOSihQlM4VqC2DjUVcCB5oAh46msb8Hn6u2tE6H2U2eu_sKr-bslVZaNyKyIHA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 131238,
+      "length": "54:43",
+      "description": "Learn React JS from scratch in 2025, Quick & Easy. This beginner-friendly React tutorial covers everything you need to start ...",
+      "extensions": [
+        "Beginner",
+        "Overview"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/zUx56TYIE24/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeqYjSqFG9BhAuUqCrR16CjDUaNg",
+        "rich": "https://i.ytimg.com/an_webp/zUx56TYIE24/mqdefault_6s.webp?du=3000&sqp=CJ7DkNYG&rs=AOn4CLCnKrQwSwxyB-ACo2vELtHSTknrvw"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "How to Learn React JS from Scratch - Learn Beyond Theories with KD Jayakody",
+      "link": "https://www.youtube.com/watch?v=iNzpVLPOUJA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=iNzpVLPOUJA",
+      "video_id": "iNzpVLPOUJA",
+      "channel": {
+        "name": "KD Jayakody",
+        "link": "https://www.youtube.com/@KDJayakody",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/cEjap5GkWzfFDhJyqgmmLtmqHao0pwlqM9Jzu2d58eclGl1Hmq-D85PRQid_0_WLEK-c2bRkgA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 31215,
+      "length": "1:07:52",
+      "description": "Want to learn React JS from scratch? Look no further! In this video, KD Jayakody will guide you through practical and hands-on ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/iNzpVLPOUJA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCl7vwFea3Oc4IpfbwDHFYVWbfNZw",
+        "rich": "https://i.ytimg.com/an_webp/iNzpVLPOUJA/mqdefault_6s.webp?du=3000&sqp=CIDskNYG&rs=AOn4CLBbOxvy7AdGZO8IisBFcEapvms-8w"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Learn React JS - Full Course for Beginners - Tutorial 2019",
+      "link": "https://www.youtube.com/watch?v=DLX62G4lc44",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&v=DLX62G4lc44",
+      "video_id": "DLX62G4lc44",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 3214127,
+      "length": "5:05:34",
+      "description": "Watch the updated version of this course: https://youtu.be/x4rFhThSX04 React.js is a JavaScript library for building dynamic web ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/DLX62G4lc44/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDD4APkUElCjtEvoxh3NaiVNE8Y5w"
+      }
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 6,
+      "title": "ReactJS Tutorial for Beginners",
+      "link": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3",
+      "channel": {
+        "name": "Codevolution",
+        "link": "https://www.youtube.com/@Codevolution"
+      },
+      "videos": [
+        {
+          "title": "ReactJS Tutorial - 1 - Introduction",
+          "length": "9:34",
+          "link": "https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3"
+        },
+        {
+          "title": "ReactJS Tutorial - 2 - Hello World",
+          "length": "4:54",
+          "link": "https://www.youtube.com/watch?v=9hb_0TZ_MVI&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&pp=0gcJCQIF0aJEHMZM"
+        }
+      ],
+      "video_count": 120,
+      "thumbnail": "https://i.ytimg.com/vi/QFaFIcGhPoM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBxjQ3WRrxrWkZIs4UJ8lbT8uODng"
+    },
+    {
+      "position_on_page": 8,
+      "title": "React tutorial for beginners ⚛️",
+      "link": "https://www.youtube.com/playlist?list=PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ",
+      "channel": {
+        "name": "Bro Code",
+        "link": "https://www.youtube.com/@BroCodez"
+      },
+      "videos": [
+        {
+          "title": "React tutorial for beginners ⚛️",
+          "length": "20:27",
+          "link": "https://www.youtube.com/watch?v=hn80mWvP-9g&list=PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ"
+        },
+        {
+          "title": "React CARD components 🃏",
+          "length": "11:59",
+          "link": "https://www.youtube.com/watch?v=yYiwxYqQ9vg&list=PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ"
+        }
+      ],
+      "video_count": 20,
+      "thumbnail": "https://i.ytimg.com/vi/hn80mWvP-9g/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLARv5_xyG4evbcZV8ooBQ5koKO99w"
+    },
+    {
+      "position_on_page": 9,
+      "title": "Full Modern React Tutorial",
+      "link": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d",
+      "channel": {
+        "name": "Net Ninja",
+        "link": "https://www.youtube.com/@NetNinja"
+      },
+      "videos": [
+        {
+          "title": "Full React Tutorial #1 - Introduction",
+          "length": "6:07",
+          "link": "https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d"
+        },
+        {
+          "title": "Full React Tutorial #2 - Creating a React Application",
+          "length": "13:02",
+          "link": "https://www.youtube.com/watch?v=kVeOpcw4GWY&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d"
+        }
+      ],
+      "video_count": 32,
+      "thumbnail": "https://i.ytimg.com/vi/j942wKiXFu8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBbGtddeJ5tUYHQ4sp-TxFi98iYuw"
+    },
+    {
+      "position_on_page": 11,
+      "title": "React 19 Complete Tutorial",
+      "link": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwg9D7EOSEBabuutIdKZN5V3",
+      "channel": {
+        "name": "Codevolution",
+        "link": "https://www.youtube.com/@Codevolution"
+      },
+      "videos": [
+        {
+          "title": "React 19 Tutorial - 1 - Introduction",
+          "length": "4:39",
+          "link": "https://www.youtube.com/watch?v=H6QAY_VqvUc&list=PLC3y8-rFHvwg9D7EOSEBabuutIdKZN5V3"
+        },
+        {
+          "title": "React 19 Tutorial - 2 - Your First React App",
+          "length": "4:22",
+          "link": "https://www.youtube.com/watch?v=32nwU4Gd8qE&list=PLC3y8-rFHvwg9D7EOSEBabuutIdKZN5V3"
+        }
+      ],
+      "video_count": 38,
+      "thumbnail": "https://i.ytimg.com/vi/H6QAY_VqvUc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCMFKtwBWYB1tm4MrR6ZtcPajXWUQ"
+    },
+    {
+      "position_on_page": 15,
+      "title": "ReactJS  Masterclass: Beginner To Advanced – Build Real Projects (85+ Videos)",
+      "link": "https://www.youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza",
+      "channel": {
+        "name": "Code Stoic",
+        "link": "https://www.youtube.com/@ashutoshpawar"
+      },
+      "videos": [
+        {
+          "title": "ReactJS Tutorial 1 : Introduction To ReactJS",
+          "length": "15:58",
+          "link": "https://www.youtube.com/watch?v=MHn66JJH5zs&list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza"
+        },
+        {
+          "title": "ReactJS Tutorial 2: Installing Required Tools",
+          "length": "3:49",
+          "link": "https://www.youtube.com/watch?v=R1B1PaD0sWU&list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza"
+        }
+      ],
+      "video_count": 93,
+      "thumbnail": "https://i.ytimg.com/vi/MHn66JJH5zs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB_C3RQdkJnORcghP7sZ_NqFvdxRw"
+    },
+    {
+      "position_on_page": 18,
+      "title": "React tutorial for beginners in Hindi",
+      "link": "https://www.youtube.com/playlist?list=PL8p2I9GklV47BCAjiCtuV_liN9IwAl8pM",
+      "channel": {
+        "name": "Code Step By Step",
+        "link": "https://www.youtube.com/@codestepbystep"
+      },
+      "videos": [
+        {
+          "title": "React tutorial in Hindi  #1 Introduction",
+          "length": "8:47",
+          "link": "https://www.youtube.com/watch?v=9Tz2tY-ZEwQ&list=PL8p2I9GklV47BCAjiCtuV_liN9IwAl8pM"
+        },
+        {
+          "title": "react tutorial in Hindi  #2 React js without NPM | React CDN",
+          "length": "10:00",
+          "link": "https://www.youtube.com/watch?v=xmoiyb05eOQ&list=PL8p2I9GklV47BCAjiCtuV_liN9IwAl8pM"
+        }
+      ],
+      "video_count": 119,
+      "thumbnail": "https://i.ytimg.com/vi/9Tz2tY-ZEwQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDi7nobVsp43oH2JsUOEX8zPeJymg"
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=React+tutorial+for+beginners",
+    "next": "https://www.youtube.com/results?search_query=React%20tutorial%20for%20beginners&sp=SBSCAQtTcWNZMEdsRVRQa4IBC2huODBtV3ZQLTlnggELczJza2FuczJkUDSCAQtUdFBYdkVjRTExRYIBC1YxUHhnakloVHcwggEiUExDM3k4LXJGSHZ3Z2czdmFZSmdIR25Nb2RCNTRyeE9rM4IBC1RuNi1QSXFjNFVNggEiUExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUYIBIlBMNGNVeGVHa2NDOWdaRC1Udndmb2QyZ2FJU3pmUmlQOWSCAQt3SXlIU091Z0dHd4IBIlBMQzN5OC1yRkh2d2c5RDdFT1NFQmFidXV0SWRLWk41VjOCAQtLZTkwVGplN1ZTMIIBC09BNUpBbVRjVHo0ggELeHhSQUEwdjJsdk2CASJQTFNzQXo1d2YybGtLX2VrZDBKX180NEtHNlFvWGV0WnphggELRzZEOWNCYUxWaUGCAQt6VXg1NlRZSUUyNIIBIlBMOHAySTlHa2xWNDdCQ0FqaUN0dVZfbGlOOUl3QWw4cE2CAQtpTnpwVkxQT1VKQYIBC0RMWDYyRzRsYzQ0sgEGCgQIFBAC",
+    "next_page_token": "SBSCAQtTcWNZMEdsRVRQa4IBC2huODBtV3ZQLTlnggELczJza2FuczJkUDSCAQtUdFBYdkVjRTExRYIBC1YxUHhnakloVHcwggEiUExDM3k4LXJGSHZ3Z2czdmFZSmdIR25Nb2RCNTRyeE9rM4IBC1RuNi1QSXFjNFVNggEiUExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUYIBIlBMNGNVeGVHa2NDOWdaRC1Udndmb2QyZ2FJU3pmUmlQOWSCAQt3SXlIU091Z0dHd4IBIlBMQzN5OC1yRkh2d2c5RDdFT1NFQmFidXV0SWRLWk41VjOCAQtLZTkwVGplN1ZTMIIBC09BNUpBbVRjVHo0ggELeHhSQUEwdjJsdk2CASJQTFNzQXo1d2YybGtLX2VrZDBKX180NEtHNlFvWGV0WnphggELRzZEOWNCYUxWaUGCAQt6VXg1NlRZSUUyNIIBIlBMOHAySTlHa2xWNDdCQ0FqaUN0dVZfbGlOOUl3QWw4cE2CAQtpTnpwVkxQT1VKQYIBC0RMWDYyRzRsYzQ0sgEGCgQIFBAC"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&search_query=React+tutorial+for+beginners",
+    "next": "https://serpapi.com/search.json?engine=youtube&search_query=React+tutorial+for+beginners&sp=SBSCAQtTcWNZMEdsRVRQa4IBC2huODBtV3ZQLTlnggELczJza2FuczJkUDSCAQtUdFBYdkVjRTExRYIBC1YxUHhnakloVHcwggEiUExDM3k4LXJGSHZ3Z2czdmFZSmdIR25Nb2RCNTRyeE9rM4IBC1RuNi1QSXFjNFVNggEiUExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUYIBIlBMNGNVeGVHa2NDOWdaRC1Udndmb2QyZ2FJU3pmUmlQOWSCAQt3SXlIU091Z0dHd4IBIlBMQzN5OC1yRkh2d2c5RDdFT1NFQmFidXV0SWRLWk41VjOCAQtLZTkwVGplN1ZTMIIBC09BNUpBbVRjVHo0ggELeHhSQUEwdjJsdk2CASJQTFNzQXo1d2YybGtLX2VrZDBKX180NEtHNlFvWGV0WnphggELRzZEOWNCYUxWaUGCAQt6VXg1NlRZSUUyNIIBIlBMOHAySTlHa2xWNDdCQ0FqaUN0dVZfbGlOOUl3QWw4cE2CAQtpTnpwVkxQT1VKQYIBC0RMWDYyRzRsYzQ0sgEGCgQIFBAC",
+    "next_page_token": "SBSCAQtTcWNZMEdsRVRQa4IBC2huODBtV3ZQLTlnggELczJza2FuczJkUDSCAQtUdFBYdkVjRTExRYIBC1YxUHhnakloVHcwggEiUExDM3k4LXJGSHZ3Z2czdmFZSmdIR25Nb2RCNTRyeE9rM4IBC1RuNi1QSXFjNFVNggEiUExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUYIBIlBMNGNVeGVHa2NDOWdaRC1Udndmb2QyZ2FJU3pmUmlQOWSCAQt3SXlIU091Z0dHd4IBIlBMQzN5OC1yRkh2d2c5RDdFT1NFQmFidXV0SWRLWk41VjOCAQtLZTkwVGplN1ZTMIIBC09BNUpBbVRjVHo0ggELeHhSQUEwdjJsdk2CASJQTFNzQXo1d2YybGtLX2VrZDBKX180NEtHNlFvWGV0WnphggELRzZEOWNCYUxWaUGCAQt6VXg1NlRZSUUyNIIBIlBMOHAySTlHa2xWNDdCQ0FqaUN0dVZfbGlOOUl3QWw4cE2CAQtpTnpwVkxQT1VKQYIBC0RMWDYyRzRsYzQ0sgEGCgQIFBAC"
+  }
+}
