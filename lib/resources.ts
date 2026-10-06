@@ -8,6 +8,7 @@
 
 import { YOUTUBE_PER_SKILL } from "./config";
 import { serpApiCall } from "./serpapi";
+import { asArray, asNumber, asRecord, asString } from "./json";
 import type { Resource } from "./types";
 
 const TITLE_HINTS = ["tutorial", "course", "crash course", "beginner", "full course"];
@@ -24,15 +25,20 @@ export async function fetchResourcesForSkill(skillLabel: string): Promise<Resour
   const { data } = await serpApiCall("youtube", {
     search_query: `${skillLabel} tutorial for beginners`,
   });
-  const videos = (data.video_results ?? [])
-    .filter((v: any) => v.link || v.url)
-    .map((v: any) => ({
-      title: v.title ?? "",
-      url: v.link ?? v.url,
-      channel: v.channel?.name ?? v.channel ?? undefined,
-      length: v.length ?? undefined,
-      views: typeof v.views === "number" ? v.views : undefined,
-    }));
-  videos.sort((a: Resource, b: Resource) => scoreVideo(b.title, b.views) - scoreVideo(a.title, a.views));
+  const videos: Resource[] = [];
+  for (const item of asArray(data.video_results)) {
+    const v = asRecord(item);
+    const url = asString(v.link) || asString(v.url);
+    if (!url) continue;
+    const channel = asRecord(v.channel);
+    videos.push({
+      title: asString(v.title),
+      url,
+      channel: asString(channel.name) || asString(v.channel) || undefined,
+      length: asString(v.length) || undefined,
+      views: asNumber(v.views),
+    });
+  }
+  videos.sort((a, b) => scoreVideo(b.title, b.views) - scoreVideo(a.title, a.views));
   return videos.slice(0, YOUTUBE_PER_SKILL);
 }

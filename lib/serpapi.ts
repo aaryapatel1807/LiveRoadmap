@@ -10,13 +10,14 @@
 import { createHash } from "node:crypto";
 import { existsSync, mkdirSync, readFileSync, appendFileSync, statSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
+import type { JsonRecord } from "./json";
 
 export const CACHE_ONLY = process.env.CACHE_ONLY === "true";
 const CACHE_DIR = join(process.cwd(), ".cache", "serpapi");
 const CREDIT_LOG = join(process.cwd(), ".cache", "credit-log.jsonl");
 
 export interface SerpApiResult {
-  data: any;
+  data: JsonRecord;
   /** true when served from cache; false when it cost a real credit */
   cached: boolean;
   /** ISO timestamp of the response: cache file mtime on hit, now on miss */

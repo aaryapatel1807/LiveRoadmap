@@ -149,7 +149,7 @@ export default function RoadmapPage() {
             <div className="flex h-full items-center justify-center p-8">
               <div className="max-w-md text-center">
                 <div className="text-4xl">⚠️</div>
-                <h2 className="mt-3 text-lg font-bold">Couldn't load this roadmap</h2>
+                <h2 className="mt-3 text-lg font-bold">Couldn&apos;t load this roadmap</h2>
                 <p className="mt-2 text-sm" style={{ color: "#8b7a83" }}>
                   {error}
                 </p>

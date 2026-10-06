@@ -72,7 +72,6 @@ export function rankSkills(
  */
 export function orderSkills(dict: SkillDef[], kept: RankedSkill[]): { nodes: RankedSkill[]; edges: { from: string; to: string }[] } {
   const byId = new Map(dict.map((s) => [s.id, s]));
-  const keptIds = new Set(kept.map((k) => k.id));
   const nodes = new Map<string, RankedSkill>(kept.map((k) => [k.id, k]));
   const edges: { from: string; to: string }[] = [];
 

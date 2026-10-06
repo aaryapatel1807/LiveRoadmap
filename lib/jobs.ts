@@ -9,6 +9,7 @@
 
 import { JOB_PAGES } from "./config";
 import { serpApiCall } from "./serpapi";
+import { asArray, asRecord, asString, type JsonRecord } from "./json";
 import type { Posting } from "./types";
 
 export interface JobsFetch {
@@ -17,23 +18,29 @@ export interface JobsFetch {
   fetchedAt: string;
 }
 
-function normalizePosting(raw: any): Posting {
+function normalizePosting(raw: JsonRecord): Posting {
   const highlights: string[] = [];
   // extensions carry facts like ["15 hours ago", "Full-time"].
-  for (const e of raw.extensions ?? []) {
-    if (typeof e === "string") highlights.push(e);
+  for (const e of asArray(raw.extensions)) {
+    const s = asString(e);
+    if (s) highlights.push(s);
   }
   // job_highlights was expected per the brief but is absent from the real
   // fixture; keep the mapping in case other queries return it.
-  for (const h of raw.job_highlights ?? []) {
-    if (typeof h === "string") highlights.push(h);
-    else if (Array.isArray(h?.items)) highlights.push(`${h.title ?? ""}: ${h.items.join("; ")}`);
-    else if (h?.title) highlights.push(h.title);
+  for (const h of asArray(raw.job_highlights)) {
+    if (typeof h === "string") {
+      highlights.push(h);
+      continue;
+    }
+    const rec = asRecord(h);
+    const items = asArray(rec.items).map(asString).filter(Boolean);
+    if (items.length > 0) highlights.push(`${asString(rec.title)}: ${items.join("; ")}`);
+    else if (asString(rec.title)) highlights.push(asString(rec.title));
   }
   return {
-    title: raw.title ?? raw.job_title ?? "",
-    company: raw.company_name ?? "",
-    description: raw.description ?? "",
+    title: asString(raw.title) || asString(raw.job_title),
+    company: asString(raw.company_name),
+    description: asString(raw.description),
     highlights,
   };
 }
@@ -53,11 +60,12 @@ export async function fetchJobsForRole(searchQuery: string, location: string, gl
     if (pageToken) params.next_page_token = pageToken;
     const { data, ts } = await serpApiCall("google_jobs", params);
     if (ts < fetchedAt) fetchedAt = ts;
-    for (const raw of data.jobs_results ?? []) {
-      postings.push(normalizePosting(raw));
+    for (const raw of asArray(data.jobs_results)) {
+      postings.push(normalizePosting(asRecord(raw)));
     }
-    // Pagination token field to be verified against the fixture.
-    pageToken = data.serpapi_pagination?.next_page_token ?? data.next_page_token;
+    // Pagination token field verified against the fixture.
+    const pagination = asRecord(data.serpapi_pagination);
+    pageToken = asString(pagination.next_page_token) || asString(data.next_page_token) || undefined;
     if (!pageToken) break;
   }
   return { postings, fetchedAt };

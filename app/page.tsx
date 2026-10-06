@@ -19,9 +19,9 @@ export default function Home() {
       <div className="text-center">
         <div className="rm-cat">Built with live search data · SerpApi</div>
         <h1 className="mt-3 text-4xl font-extrabold tracking-tight sm:text-5xl" style={{ color: "#262033" }}>
-          Don't guess what to learn.
+          Don&apos;t guess what to learn.
           <br />
-          <span style={{ color: "#f0608a" }}>Follow today's job postings.</span>
+          <span style={{ color: "#f0608a" }}>Follow today&apos;s job postings.</span>
         </h1>
         <p className="mx-auto mt-4 max-w-2xl text-base" style={{ color: "#4a4356" }}>
           LiveRoadmap turns current job listings into a learning roadmap: pick a
